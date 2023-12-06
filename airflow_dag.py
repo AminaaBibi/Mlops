@@ -1,11 +1,11 @@
 from datetime import datetime, timedelta
 from airflow import DAG
 from airflow.operators.python_operator import PythonOperator
-from airflow.operators.bash_operator import BashOperator
+import gdown  # Add this import for downloading from Google Drive
+import os
 
 # Import DVC
 import dvc.api
-import os
 
 # Define default_args dictionary to set the default parameters of the DAG
 default_args = {
@@ -20,7 +20,7 @@ default_args = {
 
 # Instantiate a DAG
 dag = DAG(
-    'etl_dag',
+    'etl_dag2',
     default_args=default_args,
     description='DAG for ETL and Data Versioning with DVC',
     schedule_interval=timedelta(days=1),  # set your desired schedule interval
@@ -28,9 +28,19 @@ dag = DAG(
 
 # Define functions for ETL steps
 
+def download_data():
+    # Google Drive link to the data.csv file
+    file_url = "https://drive.google.com/uc?id=10iZbAEEw7t8rtaD39OiuE9qPB8eSF3OJ"
+    
+    # Output path for the downloaded file
+    output_path = "/home/amina/airflow/dags/data.csv"
+    
+    # Download the file using gdown
+    gdown.download(file_url, output_path, quiet=False)
+
 def extract_data():
     # Example: Fetch data from a CSV file
-    data_source_path = "/home/amina/airflow/dags/iris.csv"
+    data_source_path = "/home/amina/airflow/dags/data.csv"
     # Your extraction logic using the data_source
     with open(data_source_path, 'r') as file:
         data = file.read()
@@ -53,6 +63,13 @@ def load_data_to_github(transformed_data):
     os.remove(temp_file_path)  # Clean up the temporary file
 
 # Define the tasks in the DAG
+
+# Task to download data
+download_task = PythonOperator(
+    task_id='download_data',
+    python_callable=download_data,
+    dag=dag,
+)
 
 # Task to extract data
 extract_task = PythonOperator(
@@ -77,5 +94,5 @@ load_to_github_task = PythonOperator(
     dag=dag,
 )
 
-# Define the order of execution for tasks
-extract_task >> transform_task >> load_to_github_task
+# Update the task dependencies
+download_task >> extract_task >> transform_task >> load_to_github_task
