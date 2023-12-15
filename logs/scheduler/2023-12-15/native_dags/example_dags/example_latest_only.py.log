@@ -376,3 +376,31 @@
 [2023-12-15T22:54:09.005+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:54:09.005+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-12-15T22:54:09.029+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:54:09.029+0500] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2023-12-15T13:54:09.028685+00:00, run_after=2023-12-15T17:54:09.028685+00:00
 [2023-12-15T22:54:09.217+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.279 seconds
+[2023-12-15T23:24:10.640+0500] {processor.py:157} INFO - Started process (PID=20439) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-15T23:24:10.689+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-12-15T23:24:10.690+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:24:10.690+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-15T23:24:10.696+0500] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-15T23:24:10.712+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:24:10.712+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T23:24:10.734+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:24:10.734+0500] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2023-12-15T14:24:10.733933+00:00, run_after=2023-12-15T18:24:10.733933+00:00
+[2023-12-15T23:24:10.839+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.202 seconds
+[2023-12-15T23:25:15.057+0500] {processor.py:157} INFO - Started process (PID=20514) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-15T23:25:15.082+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-12-15T23:25:15.083+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:25:15.083+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-15T23:25:15.090+0500] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-15T23:25:15.222+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:25:15.222+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T23:25:15.248+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:25:15.248+0500] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2023-12-15T14:25:15.247802+00:00, run_after=2023-12-15T18:25:15.247802+00:00
+[2023-12-15T23:25:15.377+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.324 seconds
+[2023-12-15T23:26:17.540+0500] {processor.py:157} INFO - Started process (PID=20565) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-15T23:26:17.563+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-12-15T23:26:17.564+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:26:17.564+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-15T23:26:17.572+0500] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-15T23:26:17.601+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:26:17.601+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T23:26:17.632+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:26:17.632+0500] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2023-12-15T14:26:17.631710+00:00, run_after=2023-12-15T18:26:17.631710+00:00
+[2023-12-15T23:26:17.767+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.230 seconds
+[2023-12-15T23:27:17.064+0500] {processor.py:157} INFO - Started process (PID=20615) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-15T23:27:17.122+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-12-15T23:27:17.123+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:27:17.122+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-15T23:27:17.130+0500] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-15T23:27:17.150+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:27:17.150+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T23:27:17.175+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:27:17.175+0500] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2023-12-15T14:27:17.175131+00:00, run_after=2023-12-15T18:27:17.175131+00:00
+[2023-12-15T23:27:17.283+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.222 seconds

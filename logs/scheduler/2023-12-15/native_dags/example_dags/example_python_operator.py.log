@@ -566,3 +566,43 @@
 [2023-12-15T22:54:54.349+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:54:54.349+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-12-15T22:54:54.361+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:54:54.361+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
 [2023-12-15T22:54:54.461+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.199 seconds
+[2023-12-15T23:23:45.168+0500] {processor.py:157} INFO - Started process (PID=20366) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2023-12-15T23:23:45.192+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-12-15T23:23:45.193+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:23:45.193+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2023-12-15T23:23:45.202+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:23:45.202+0500] {example_python_operator.py:86} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-12-15T23:23:45.203+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2023-12-15T23:23:45.225+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:23:45.225+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T23:23:45.238+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:23:45.238+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-12-15T23:23:45.345+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.180 seconds
+[2023-12-15T23:24:48.847+0500] {processor.py:157} INFO - Started process (PID=20479) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2023-12-15T23:24:48.878+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-12-15T23:24:48.878+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:24:48.878+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2023-12-15T23:24:48.888+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:24:48.888+0500] {example_python_operator.py:86} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-12-15T23:24:48.888+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2023-12-15T23:24:48.906+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:24:48.906+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T23:24:48.918+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:24:48.918+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-12-15T23:24:49.152+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.308 seconds
+[2023-12-15T23:25:52.155+0500] {processor.py:157} INFO - Started process (PID=20545) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2023-12-15T23:25:52.214+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-12-15T23:25:52.215+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:25:52.214+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2023-12-15T23:25:52.225+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:25:52.224+0500] {example_python_operator.py:86} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-12-15T23:25:52.225+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2023-12-15T23:25:52.245+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:25:52.245+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T23:25:52.258+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:25:52.258+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-12-15T23:25:52.387+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.236 seconds
+[2023-12-15T23:26:53.707+0500] {processor.py:157} INFO - Started process (PID=20595) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2023-12-15T23:26:53.728+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-12-15T23:26:53.729+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:26:53.729+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2023-12-15T23:26:53.740+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:26:53.740+0500] {example_python_operator.py:86} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-12-15T23:26:53.740+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2023-12-15T23:26:53.760+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:26:53.760+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T23:26:53.776+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:26:53.775+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-12-15T23:26:53.868+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.165 seconds
+[2023-12-15T23:27:51.042+0500] {processor.py:157} INFO - Started process (PID=20647) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2023-12-15T23:27:51.074+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-12-15T23:27:51.075+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:27:51.074+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2023-12-15T23:27:51.090+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:27:51.090+0500] {example_python_operator.py:86} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-12-15T23:27:51.091+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2023-12-15T23:27:51.118+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:27:51.118+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T23:27:51.137+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:27:51.136+0500] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-12-15T23:27:51.246+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.208 seconds
