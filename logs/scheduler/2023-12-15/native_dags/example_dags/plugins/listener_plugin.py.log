@@ -388,3 +388,18 @@
 [2023-12-15T22:51:56.844+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:51:56.844+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
 [2023-12-15T22:51:56.847+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
 [2023-12-15T22:51:56.857+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.039 seconds
+[2023-12-15T22:52:52.405+0500] {processor.py:157} INFO - Started process (PID=12473) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-12-15T22:52:52.610+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2023-12-15T22:52:52.611+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:52:52.611+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-12-15T22:52:52.614+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-12-15T22:52:52.624+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.223 seconds
+[2023-12-15T22:53:45.487+0500] {processor.py:157} INFO - Started process (PID=12523) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-12-15T22:53:45.493+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2023-12-15T22:53:45.494+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:53:45.494+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-12-15T22:53:45.500+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-12-15T22:53:45.509+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.026 seconds
+[2023-12-15T22:54:37.050+0500] {processor.py:157} INFO - Started process (PID=12571) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-12-15T22:54:37.061+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2023-12-15T22:54:37.062+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:54:37.062+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-12-15T22:54:37.065+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-12-15T22:54:37.074+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.028 seconds

@@ -488,3 +488,24 @@
 [2023-12-15T22:52:04.091+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:52:04.091+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-12-15T22:52:04.119+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:52:04.119+0500] {dag.py:3722} INFO - Setting next_dagrun for example_short_circuit_decorator to 2023-12-14T17:52:04.119059+00:00, run_after=2023-12-15T17:52:04.119059+00:00
 [2023-12-15T22:52:04.253+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 0.212 seconds
+[2023-12-15T22:52:57.888+0500] {processor.py:157} INFO - Started process (PID=12479) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2023-12-15T22:52:57.925+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py for tasks to queue
+[2023-12-15T22:52:57.926+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:52:57.926+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2023-12-15T22:52:57.940+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_short_circuit_decorator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2023-12-15T22:52:57.962+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:52:57.961+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:52:57.986+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:52:57.986+0500] {dag.py:3722} INFO - Setting next_dagrun for example_short_circuit_decorator to 2023-12-14T17:52:57.985632+00:00, run_after=2023-12-15T17:52:57.985632+00:00
+[2023-12-15T22:52:58.126+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 0.242 seconds
+[2023-12-15T22:53:52.303+0500] {processor.py:157} INFO - Started process (PID=12529) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2023-12-15T22:53:52.360+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py for tasks to queue
+[2023-12-15T22:53:52.361+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:53:52.361+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2023-12-15T22:53:52.372+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_short_circuit_decorator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2023-12-15T22:53:52.390+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:53:52.390+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:53:52.415+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:53:52.414+0500] {dag.py:3722} INFO - Setting next_dagrun for example_short_circuit_decorator to 2023-12-14T17:53:52.414537+00:00, run_after=2023-12-15T17:53:52.414537+00:00
+[2023-12-15T22:53:52.525+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 0.226 seconds
+[2023-12-15T22:54:43.775+0500] {processor.py:157} INFO - Started process (PID=12579) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2023-12-15T22:54:43.806+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py for tasks to queue
+[2023-12-15T22:54:43.806+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:54:43.806+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2023-12-15T22:54:43.818+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_short_circuit_decorator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2023-12-15T22:54:43.836+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:54:43.836+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:54:43.856+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:54:43.856+0500] {dag.py:3722} INFO - Setting next_dagrun for example_short_circuit_decorator to 2023-12-14T17:54:43.856439+00:00, run_after=2023-12-15T17:54:43.856439+00:00
+[2023-12-15T22:54:43.963+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 0.193 seconds

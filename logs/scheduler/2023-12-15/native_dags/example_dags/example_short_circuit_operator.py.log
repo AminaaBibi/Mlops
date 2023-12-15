@@ -488,3 +488,24 @@
 [2023-12-15T22:52:26.278+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:52:26.277+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-12-15T22:52:26.314+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:52:26.313+0500] {dag.py:3722} INFO - Setting next_dagrun for example_short_circuit_operator to 2023-12-14T17:52:26.313567+00:00, run_after=2023-12-15T17:52:26.313567+00:00
 [2023-12-15T22:52:26.450+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.267 seconds
+[2023-12-15T22:53:23.001+0500] {processor.py:157} INFO - Started process (PID=12502) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2023-12-15T22:53:23.003+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2023-12-15T22:53:23.004+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:53:23.004+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2023-12-15T22:53:23.013+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2023-12-15T22:53:23.031+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:53:23.031+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:53:23.052+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:53:23.052+0500] {dag.py:3722} INFO - Setting next_dagrun for example_short_circuit_operator to 2023-12-14T17:53:23.051903+00:00, run_after=2023-12-15T17:53:23.051903+00:00
+[2023-12-15T22:53:23.358+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.363 seconds
+[2023-12-15T22:54:14.676+0500] {processor.py:157} INFO - Started process (PID=12548) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2023-12-15T22:54:14.677+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2023-12-15T22:54:14.679+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:54:14.678+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2023-12-15T22:54:14.688+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2023-12-15T22:54:14.711+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:54:14.711+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:54:14.736+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:54:14.736+0500] {dag.py:3722} INFO - Setting next_dagrun for example_short_circuit_operator to 2023-12-14T17:54:14.736026+00:00, run_after=2023-12-15T17:54:14.736026+00:00
+[2023-12-15T22:54:14.850+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.177 seconds
+[2023-12-15T22:55:04.631+0500] {processor.py:157} INFO - Started process (PID=12612) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2023-12-15T22:55:04.664+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2023-12-15T22:55:04.665+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:55:04.665+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2023-12-15T22:55:04.674+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2023-12-15T22:55:04.694+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:55:04.693+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:55:04.714+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:55:04.714+0500] {dag.py:3722} INFO - Setting next_dagrun for example_short_circuit_operator to 2023-12-14T17:55:04.714575+00:00, run_after=2023-12-15T17:55:04.714575+00:00
+[2023-12-15T22:55:04.818+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.192 seconds

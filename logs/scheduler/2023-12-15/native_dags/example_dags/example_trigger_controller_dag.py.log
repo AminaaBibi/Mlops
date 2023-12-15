@@ -509,3 +509,24 @@
 [2023-12-15T22:52:24.445+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:52:24.445+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-12-15T22:52:24.470+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:52:24.470+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
 [2023-12-15T22:52:24.591+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.177 seconds
+[2023-12-15T22:53:20.503+0500] {processor.py:157} INFO - Started process (PID=12500) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2023-12-15T22:53:20.524+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2023-12-15T22:53:20.524+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:53:20.524+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2023-12-15T22:53:20.530+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2023-12-15T22:53:20.548+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:53:20.548+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:53:20.575+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:53:20.575+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-12-15T22:53:20.691+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.192 seconds
+[2023-12-15T22:54:12.041+0500] {processor.py:157} INFO - Started process (PID=12545) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2023-12-15T22:54:12.052+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2023-12-15T22:54:12.053+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:54:12.053+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2023-12-15T22:54:12.058+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2023-12-15T22:54:12.076+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:54:12.075+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:54:12.099+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:54:12.099+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-12-15T22:54:12.216+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.178 seconds
+[2023-12-15T22:55:01.932+0500] {processor.py:157} INFO - Started process (PID=12603) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2023-12-15T22:55:01.974+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2023-12-15T22:55:01.975+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:55:01.975+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2023-12-15T22:55:01.981+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2023-12-15T22:55:02.004+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:55:02.004+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:55:02.038+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:55:02.037+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-12-15T22:55:02.151+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.225 seconds

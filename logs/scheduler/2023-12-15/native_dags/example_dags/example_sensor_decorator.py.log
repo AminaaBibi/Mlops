@@ -474,3 +474,24 @@
 [2023-12-15T22:52:08.126+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:52:08.125+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-12-15T22:52:08.139+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:52:08.139+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
 [2023-12-15T22:52:08.241+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.198 seconds
+[2023-12-15T22:53:02.116+0500] {processor.py:157} INFO - Started process (PID=12485) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-12-15T22:53:02.122+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2023-12-15T22:53:02.123+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:53:02.123+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-12-15T22:53:02.129+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensor_decorator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-12-15T22:53:02.149+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:53:02.149+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:53:02.163+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:53:02.163+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2023-12-15T22:53:02.278+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.166 seconds
+[2023-12-15T22:53:56.301+0500] {processor.py:157} INFO - Started process (PID=12532) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-12-15T22:53:56.351+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2023-12-15T22:53:56.352+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:53:56.352+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-12-15T22:53:56.359+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensor_decorator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-12-15T22:53:56.376+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:53:56.376+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:53:56.389+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:53:56.389+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2023-12-15T22:53:56.492+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.194 seconds
+[2023-12-15T22:54:47.857+0500] {processor.py:157} INFO - Started process (PID=12582) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-12-15T22:54:47.889+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2023-12-15T22:54:47.890+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:54:47.890+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-12-15T22:54:47.900+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensor_decorator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-12-15T22:54:47.919+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:54:47.919+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:54:47.936+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:54:47.936+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2023-12-15T22:54:48.040+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.186 seconds

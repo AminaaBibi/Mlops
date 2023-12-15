@@ -462,3 +462,19 @@
 [2023-12-15T22:52:20.480+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:52:20.479+0500] {dag.py:3722} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
 [2023-12-15T22:52:20.485+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:52:20.485+0500] {dag.py:3722} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
 [2023-12-15T22:52:20.587+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.171 seconds
+[2023-12-15T22:53:16.328+0500] {processor.py:157} INFO - Started process (PID=12497) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2023-12-15T22:53:16.357+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2023-12-15T22:53:16.358+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:53:16.357+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2023-12-15T22:53:16.364+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2023-12-15T22:53:16.385+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:53:16.385+0500] {dag.py:2941} INFO - Sync 2 DAGs
+[2023-12-15T22:53:16.397+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:53:16.397+0500] {dag.py:3722} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2023-12-15T22:53:16.402+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:53:16.401+0500] {dag.py:3722} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2023-12-15T22:53:16.511+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.187 seconds
+[2023-12-15T22:54:33.161+0500] {processor.py:157} INFO - Started process (PID=12568) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2023-12-15T22:54:33.172+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2023-12-15T22:54:33.173+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:54:33.173+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2023-12-15T22:54:33.180+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2023-12-15T22:54:33.200+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:54:33.199+0500] {dag.py:2941} INFO - Sync 2 DAGs
+[2023-12-15T22:54:33.213+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:54:33.213+0500] {dag.py:3722} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2023-12-15T22:54:33.217+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:54:33.217+0500] {dag.py:3722} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2023-12-15T22:54:33.338+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.181 seconds
