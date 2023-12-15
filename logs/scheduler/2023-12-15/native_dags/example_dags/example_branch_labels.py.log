@@ -397,3 +397,45 @@
 [2023-12-15T22:42:32.884+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:42:32.884+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-12-15T22:42:32.905+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:42:32.905+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-12-14T00:00:00+00:00, run_after=2023-12-15T00:00:00+00:00
 [2023-12-15T22:42:33.043+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.231 seconds
+[2023-12-15T22:43:41.141+0500] {processor.py:157} INFO - Started process (PID=11722) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-12-15T22:43:41.161+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-12-15T22:43:41.162+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:43:41.161+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-12-15T22:43:41.170+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-12-15T22:43:41.187+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:43:41.187+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:43:41.214+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:43:41.214+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-12-14T00:00:00+00:00, run_after=2023-12-15T00:00:00+00:00
+[2023-12-15T22:43:41.314+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.176 seconds
+[2023-12-15T22:44:36.054+0500] {processor.py:157} INFO - Started process (PID=11779) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-12-15T22:44:36.063+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-12-15T22:44:36.064+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:44:36.063+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-12-15T22:44:36.073+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-12-15T22:44:36.097+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:44:36.097+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:44:36.126+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:44:36.125+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-12-14T00:00:00+00:00, run_after=2023-12-15T00:00:00+00:00
+[2023-12-15T22:44:36.229+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.178 seconds
+[2023-12-15T22:45:29.352+0500] {processor.py:157} INFO - Started process (PID=11845) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-12-15T22:45:29.377+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-12-15T22:45:29.377+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:45:29.377+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-12-15T22:45:29.385+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-12-15T22:45:29.401+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:45:29.400+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:45:29.420+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:45:29.420+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-12-14T00:00:00+00:00, run_after=2023-12-15T00:00:00+00:00
+[2023-12-15T22:45:29.518+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.169 seconds
+[2023-12-15T22:46:25.122+0500] {processor.py:157} INFO - Started process (PID=11901) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-12-15T22:46:25.157+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-12-15T22:46:25.158+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:46:25.158+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-12-15T22:46:25.173+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-12-15T22:46:25.205+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:46:25.205+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:46:25.243+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:46:25.242+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-12-14T00:00:00+00:00, run_after=2023-12-15T00:00:00+00:00
+[2023-12-15T22:46:25.368+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.249 seconds
+[2023-12-15T22:47:22.883+0500] {processor.py:157} INFO - Started process (PID=11981) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-12-15T22:47:22.926+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-12-15T22:47:22.927+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:47:22.927+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-12-15T22:47:22.936+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-12-15T22:47:22.956+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:47:22.956+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:47:22.981+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:47:22.980+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-12-14T00:00:00+00:00, run_after=2023-12-15T00:00:00+00:00
+[2023-12-15T22:47:23.083+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.203 seconds
+[2023-12-15T22:48:20.243+0500] {processor.py:157} INFO - Started process (PID=12064) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-12-15T22:48:20.262+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-12-15T22:48:20.263+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:48:20.263+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-12-15T22:48:20.270+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-12-15T22:48:20.287+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:48:20.287+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:48:20.307+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:48:20.307+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-12-14T00:00:00+00:00, run_after=2023-12-15T00:00:00+00:00
+[2023-12-15T22:48:20.416+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.176 seconds

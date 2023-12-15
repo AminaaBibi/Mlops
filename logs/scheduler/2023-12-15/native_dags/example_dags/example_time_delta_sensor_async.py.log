@@ -411,3 +411,45 @@
 [2023-12-15T22:42:20.894+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:42:20.894+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-12-15T22:42:20.905+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:42:20.905+0500] {dag.py:3722} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
 [2023-12-15T22:42:21.009+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.170 seconds
+[2023-12-15T22:43:29.630+0500] {processor.py:157} INFO - Started process (PID=11698) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-12-15T22:43:29.695+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-12-15T22:43:29.696+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:43:29.696+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-12-15T22:43:29.702+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-12-15T22:43:29.723+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:43:29.722+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:43:29.733+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:43:29.733+0500] {dag.py:3722} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-12-15T22:43:29.825+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.198 seconds
+[2023-12-15T22:44:24.441+0500] {processor.py:157} INFO - Started process (PID=11766) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-12-15T22:44:24.462+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-12-15T22:44:24.463+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:44:24.463+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-12-15T22:44:24.467+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-12-15T22:44:24.482+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:44:24.482+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:44:24.493+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:44:24.492+0500] {dag.py:3722} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-12-15T22:44:24.594+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.156 seconds
+[2023-12-15T22:45:17.464+0500] {processor.py:157} INFO - Started process (PID=11828) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-12-15T22:45:17.468+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-12-15T22:45:17.469+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:45:17.469+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-12-15T22:45:17.473+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-12-15T22:45:17.489+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:45:17.489+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:45:17.501+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:45:17.501+0500] {dag.py:3722} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-12-15T22:45:17.589+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.129 seconds
+[2023-12-15T22:46:12.488+0500] {processor.py:157} INFO - Started process (PID=11890) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-12-15T22:46:12.512+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-12-15T22:46:12.513+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:46:12.512+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-12-15T22:46:12.517+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-12-15T22:46:12.531+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:46:12.531+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:46:12.542+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:46:12.542+0500] {dag.py:3722} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-12-15T22:46:12.643+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.158 seconds
+[2023-12-15T22:47:10.980+0500] {processor.py:157} INFO - Started process (PID=11970) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-12-15T22:47:11.026+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-12-15T22:47:11.027+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:47:11.026+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-12-15T22:47:11.031+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-12-15T22:47:11.046+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:47:11.046+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:47:11.057+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:47:11.057+0500] {dag.py:3722} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-12-15T22:47:11.179+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.203 seconds
+[2023-12-15T22:48:08.514+0500] {processor.py:157} INFO - Started process (PID=12054) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-12-15T22:48:08.554+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-12-15T22:48:08.555+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:48:08.554+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-12-15T22:48:08.559+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-12-15T22:48:08.573+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:48:08.573+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:48:08.583+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:48:08.583+0500] {dag.py:3722} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-12-15T22:48:08.682+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.170 seconds

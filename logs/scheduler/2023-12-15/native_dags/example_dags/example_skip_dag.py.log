@@ -418,3 +418,45 @@
 [2023-12-15T22:42:20.434+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:42:20.434+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-12-15T22:42:20.453+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:42:20.453+0500] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-14T17:42:20.453147+00:00, run_after=2023-12-15T17:42:20.453147+00:00
 [2023-12-15T22:42:20.577+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.171 seconds
+[2023-12-15T22:43:28.378+0500] {processor.py:157} INFO - Started process (PID=11697) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-15T22:43:28.404+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-15T22:43:28.405+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:43:28.405+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-15T22:43:28.412+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-15T22:43:28.430+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:43:28.430+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:43:28.449+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:43:28.449+0500] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-14T17:43:28.449087+00:00, run_after=2023-12-15T17:43:28.449087+00:00
+[2023-12-15T22:43:28.560+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.185 seconds
+[2023-12-15T22:44:23.188+0500] {processor.py:157} INFO - Started process (PID=11765) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-15T22:44:23.218+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-15T22:44:23.219+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:44:23.218+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-15T22:44:23.225+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-15T22:44:23.241+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:44:23.241+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:44:23.259+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:44:23.259+0500] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-14T17:44:23.259187+00:00, run_after=2023-12-15T17:44:23.259187+00:00
+[2023-12-15T22:44:23.362+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.176 seconds
+[2023-12-15T22:45:16.342+0500] {processor.py:157} INFO - Started process (PID=11827) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-15T22:45:16.365+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-15T22:45:16.366+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:45:16.365+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-15T22:45:16.372+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-15T22:45:16.389+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:45:16.388+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:45:16.407+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:45:16.407+0500] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-14T17:45:16.407075+00:00, run_after=2023-12-15T17:45:16.407075+00:00
+[2023-12-15T22:45:16.509+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.171 seconds
+[2023-12-15T22:46:11.122+0500] {processor.py:157} INFO - Started process (PID=11889) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-15T22:46:11.123+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-15T22:46:11.124+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:46:11.123+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-15T22:46:11.131+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-15T22:46:11.147+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:46:11.146+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:46:11.165+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:46:11.165+0500] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-14T17:46:11.164979+00:00, run_after=2023-12-15T17:46:11.164979+00:00
+[2023-12-15T22:46:11.256+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.137 seconds
+[2023-12-15T22:47:09.858+0500] {processor.py:157} INFO - Started process (PID=11969) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-15T22:47:09.892+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-15T22:47:09.893+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:47:09.893+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-15T22:47:09.900+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-15T22:47:09.917+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:47:09.917+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:47:09.936+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:47:09.936+0500] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-14T17:47:09.936228+00:00, run_after=2023-12-15T17:47:09.936228+00:00
+[2023-12-15T22:47:10.047+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.193 seconds
+[2023-12-15T22:48:07.138+0500] {processor.py:157} INFO - Started process (PID=12053) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-15T22:48:07.150+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-12-15T22:48:07.151+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:48:07.151+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-15T22:48:07.158+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-12-15T22:48:07.174+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:48:07.173+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:48:07.192+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:48:07.192+0500] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-12-14T17:48:07.191921+00:00, run_after=2023-12-15T17:48:07.191921+00:00
+[2023-12-15T22:48:07.295+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.160 seconds
