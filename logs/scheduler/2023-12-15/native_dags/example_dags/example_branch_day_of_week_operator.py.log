@@ -446,3 +446,24 @@
 [2023-12-15T22:48:17.715+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:48:17.715+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-12-15T22:48:17.744+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:48:17.744+0500] {dag.py:3722} INFO - Setting next_dagrun for example_weekday_branch_operator to 2023-12-14T00:00:00+00:00, run_after=2023-12-15T00:00:00+00:00
 [2023-12-15T22:48:17.842+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py took 0.212 seconds
+[2023-12-15T22:49:51.033+0500] {processor.py:157} INFO - Started process (PID=12209) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2023-12-15T22:49:51.091+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py for tasks to queue
+[2023-12-15T22:49:51.092+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:49:51.092+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2023-12-15T22:49:51.102+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_weekday_branch_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2023-12-15T22:49:51.119+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:49:51.119+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:49:51.145+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:49:51.144+0500] {dag.py:3722} INFO - Setting next_dagrun for example_weekday_branch_operator to 2023-12-14T00:00:00+00:00, run_after=2023-12-15T00:00:00+00:00
+[2023-12-15T22:49:51.246+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py took 0.217 seconds
+[2023-12-15T22:50:51.251+0500] {processor.py:157} INFO - Started process (PID=12326) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2023-12-15T22:50:51.271+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py for tasks to queue
+[2023-12-15T22:50:51.272+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:50:51.272+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2023-12-15T22:50:51.281+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_weekday_branch_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2023-12-15T22:50:51.300+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:50:51.300+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:50:51.322+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:50:51.322+0500] {dag.py:3722} INFO - Setting next_dagrun for example_weekday_branch_operator to 2023-12-14T00:00:00+00:00, run_after=2023-12-15T00:00:00+00:00
+[2023-12-15T22:50:51.425+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py took 0.177 seconds
+[2023-12-15T22:51:46.306+0500] {processor.py:157} INFO - Started process (PID=12382) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2023-12-15T22:51:46.322+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py for tasks to queue
+[2023-12-15T22:51:46.324+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:51:46.323+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2023-12-15T22:51:46.333+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_weekday_branch_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2023-12-15T22:51:46.351+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:51:46.351+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:51:46.378+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:51:46.378+0500] {dag.py:3722} INFO - Setting next_dagrun for example_weekday_branch_operator to 2023-12-14T00:00:00+00:00, run_after=2023-12-15T00:00:00+00:00
+[2023-12-15T22:51:46.618+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py took 0.316 seconds

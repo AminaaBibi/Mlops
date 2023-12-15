@@ -355,3 +355,17 @@
 [2023-12-15T22:48:26.705+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:48:26.704+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-12-15T22:48:26.730+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:48:26.730+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2023-12-14T00:00:00+00:00, run_after=2023-12-15T00:00:00+00:00
 [2023-12-15T22:48:26.815+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.185 seconds
+[2023-12-15T22:50:03.710+0500] {processor.py:157} INFO - Started process (PID=12243) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-15T22:50:03.723+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-12-15T22:50:03.724+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:50:03.723+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-15T22:50:03.736+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-15T22:50:03.757+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:50:03.757+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:50:03.788+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:50:03.787+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2023-12-14T00:00:00+00:00, run_after=2023-12-15T00:00:00+00:00
+[2023-12-15T22:50:03.882+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.175 seconds
+[2023-12-15T22:51:26.517+0500] {processor.py:157} INFO - Started process (PID=12361) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-15T22:51:26.552+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-12-15T22:51:26.553+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:51:26.553+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-15T22:51:26.563+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-15T22:51:26.586+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:51:26.585+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:51:26.610+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:51:26.610+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2023-12-14T00:00:00+00:00, run_after=2023-12-15T00:00:00+00:00
+[2023-12-15T22:51:26.704+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.191 seconds

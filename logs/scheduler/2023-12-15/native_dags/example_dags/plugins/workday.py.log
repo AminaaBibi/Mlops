@@ -424,3 +424,27 @@
 [2023-12-15T22:48:03.143+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:48:03.143+0500] {workday.py:36} WARNING - Could not import pandas. Holidays will not be considered.
 [2023-12-15T22:48:03.144+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
 [2023-12-15T22:48:03.153+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.017 seconds
+[2023-12-15T22:49:29.321+0500] {processor.py:157} INFO - Started process (PID=12169) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-15T22:49:29.373+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-15T22:49:29.374+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:49:29.373+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-15T22:49:29.376+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:49:29.376+0500] {workday.py:36} WARNING - Could not import pandas. Holidays will not be considered.
+[2023-12-15T22:49:29.376+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-15T22:49:29.387+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.069 seconds
+[2023-12-15T22:50:09.353+0500] {processor.py:157} INFO - Started process (PID=12254) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-15T22:50:09.368+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-15T22:50:09.369+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:50:09.369+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-15T22:50:09.372+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:50:09.371+0500] {workday.py:36} WARNING - Could not import pandas. Holidays will not be considered.
+[2023-12-15T22:50:09.372+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-15T22:50:09.382+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.032 seconds
+[2023-12-15T22:51:04.030+0500] {processor.py:157} INFO - Started process (PID=12337) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-15T22:51:04.038+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-15T22:51:04.039+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:51:04.038+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-15T22:51:04.041+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:51:04.041+0500] {workday.py:36} WARNING - Could not import pandas. Holidays will not be considered.
+[2023-12-15T22:51:04.042+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-15T22:51:04.052+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.026 seconds
+[2023-12-15T22:51:57.675+0500] {processor.py:157} INFO - Started process (PID=12396) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-15T22:51:57.688+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-15T22:51:57.690+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:51:57.689+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-15T22:51:57.692+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:51:57.692+0500] {workday.py:36} WARNING - Could not import pandas. Holidays will not be considered.
+[2023-12-15T22:51:57.693+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-15T22:51:57.705+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/plugins/workday.py took 0.035 seconds
