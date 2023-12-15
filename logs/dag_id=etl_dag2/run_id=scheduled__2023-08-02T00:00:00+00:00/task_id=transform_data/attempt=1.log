@@ -1,0 +1,22 @@
+[2023-12-07T00:00:47.385+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: etl_dag2.transform_data scheduled__2023-08-02T00:00:00+00:00 [queued]>
+[2023-12-07T00:00:47.391+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: etl_dag2.transform_data scheduled__2023-08-02T00:00:00+00:00 [queued]>
+[2023-12-07T00:00:47.392+0500] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2023-12-07T00:00:47.562+0500] {taskinstance.py:1382} INFO - Executing <Task(PythonOperator): transform_data> on 2023-08-02 00:00:00+00:00
+[2023-12-07T00:00:47.565+0500] {standard_task_runner.py:57} INFO - Started process 31725 to run task
+[2023-12-07T00:00:47.568+0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'etl_dag2', 'transform_data', 'scheduled__2023-08-02T00:00:00+00:00', '--job-id', '792', '--raw', '--subdir', 'DAGS_FOLDER/airflow_dag.py', '--cfg-path', '/tmp/tmp6m6jyztv']
+[2023-12-07T00:00:47.568+0500] {standard_task_runner.py:85} INFO - Job 792: Subtask transform_data
+[2023-12-07T00:00:47.704+0500] {task_command.py:416} INFO - Running <TaskInstance: etl_dag2.transform_data scheduled__2023-08-02T00:00:00+00:00 [running]> on host amina-HP-ProBook-450-G2
+[2023-12-07T00:00:48.077+0500] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='amina_bibi' AIRFLOW_CTX_DAG_ID='etl_dag2' AIRFLOW_CTX_TASK_ID='transform_data' AIRFLOW_CTX_EXECUTION_DATE='2023-08-02T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-08-02T00:00:00+00:00'
+[2023-12-07T00:00:48.078+0500] {taskinstance.py:1937} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/amina/miniconda/lib/python3.11/site-packages/airflow/operators/python.py", line 192, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/amina/miniconda/lib/python3.11/site-packages/airflow/operators/python.py", line 209, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: transform_data() missing 1 required positional argument: 'data'
+[2023-12-07T00:00:48.081+0500] {taskinstance.py:1400} INFO - Marking task as UP_FOR_RETRY. dag_id=etl_dag2, task_id=transform_data, execution_date=20230802T000000, start_date=20231206T190047, end_date=20231206T190048
+[2023-12-07T00:00:48.251+0500] {standard_task_runner.py:104} ERROR - Failed to execute job 792 for task transform_data (transform_data() missing 1 required positional argument: 'data'; 31725)
+[2023-12-07T00:00:48.261+0500] {local_task_job_runner.py:228} INFO - Task exited with return code 1
+[2023-12-07T00:00:48.287+0500] {taskinstance.py:2778} INFO - 0 downstream tasks scheduled from follow-on schedule check

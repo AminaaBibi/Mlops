@@ -1,0 +1,19 @@
+[2023-12-06T22:01:42.155+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: etl_dag2.download_data scheduled__2023-02-05T00:00:00+00:00 [queued]>
+[2023-12-06T22:01:42.166+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: etl_dag2.download_data scheduled__2023-02-05T00:00:00+00:00 [queued]>
+[2023-12-06T22:01:42.166+0500] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2023-12-06T22:01:42.450+0500] {taskinstance.py:1382} INFO - Executing <Task(PythonOperator): download_data> on 2023-02-05 00:00:00+00:00
+[2023-12-06T22:01:42.454+0500] {standard_task_runner.py:57} INFO - Started process 21040 to run task
+[2023-12-06T22:01:42.459+0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'etl_dag2', 'download_data', 'scheduled__2023-02-05T00:00:00+00:00', '--job-id', '97', '--raw', '--subdir', 'DAGS_FOLDER/airflow_dag.py', '--cfg-path', '/tmp/tmpehrgj0cb']
+[2023-12-06T22:01:42.460+0500] {standard_task_runner.py:85} INFO - Job 97: Subtask download_data
+[2023-12-06T22:01:43.075+0500] {task_command.py:416} INFO - Running <TaskInstance: etl_dag2.download_data scheduled__2023-02-05T00:00:00+00:00 [running]> on host amina-HP-ProBook-450-G2
+[2023-12-06T22:01:43.728+0500] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='amina_bibi' AIRFLOW_CTX_DAG_ID='etl_dag2' AIRFLOW_CTX_TASK_ID='download_data' AIRFLOW_CTX_EXECUTION_DATE='2023-02-05T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-02-05T00:00:00+00:00'
+[2023-12-06T22:01:47.306+0500] {logging_mixin.py:154} INFO - Access denied with the following error:
+[2023-12-06T22:01:47.306+0500] {logging_mixin.py:154} WARNING -  	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses. 
+[2023-12-06T22:01:47.307+0500] {logging_mixin.py:154} WARNING - You may still be able to access the file from the browser:
+[2023-12-06T22:01:47.307+0500] {logging_mixin.py:154} WARNING - 
+	 https://drive.google.com/uc?id=10iZbAEEw7t8rtaD39OiuE9qPB8eSF3OJ 
+[2023-12-06T22:01:47.307+0500] {python.py:194} INFO - Done. Returned value was: None
+[2023-12-06T22:01:47.321+0500] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=etl_dag2, task_id=download_data, execution_date=20230205T000000, start_date=20231206T170142, end_date=20231206T170147
+[2023-12-06T22:01:47.578+0500] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2023-12-06T22:01:47.600+0500] {taskinstance.py:2778} INFO - 1 downstream tasks scheduled from follow-on schedule check

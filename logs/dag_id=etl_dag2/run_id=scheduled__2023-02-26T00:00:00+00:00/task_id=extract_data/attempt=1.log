@@ -1,0 +1,25 @@
+[2023-12-06T22:10:35.922+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: etl_dag2.extract_data scheduled__2023-02-26T00:00:00+00:00 [queued]>
+[2023-12-06T22:10:35.928+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: etl_dag2.extract_data scheduled__2023-02-26T00:00:00+00:00 [queued]>
+[2023-12-06T22:10:35.928+0500] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2023-12-06T22:10:36.066+0500] {taskinstance.py:1382} INFO - Executing <Task(PythonOperator): extract_data> on 2023-02-26 00:00:00+00:00
+[2023-12-06T22:10:36.071+0500] {standard_task_runner.py:57} INFO - Started process 21417 to run task
+[2023-12-06T22:10:36.074+0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'etl_dag2', 'extract_data', 'scheduled__2023-02-26T00:00:00+00:00', '--job-id', '162', '--raw', '--subdir', 'DAGS_FOLDER/airflow_dag.py', '--cfg-path', '/tmp/tmph3hklrgg']
+[2023-12-06T22:10:36.075+0500] {standard_task_runner.py:85} INFO - Job 162: Subtask extract_data
+[2023-12-06T22:10:36.246+0500] {task_command.py:416} INFO - Running <TaskInstance: etl_dag2.extract_data scheduled__2023-02-26T00:00:00+00:00 [running]> on host amina-HP-ProBook-450-G2
+[2023-12-06T22:10:36.592+0500] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='amina_bibi' AIRFLOW_CTX_DAG_ID='etl_dag2' AIRFLOW_CTX_TASK_ID='extract_data' AIRFLOW_CTX_EXECUTION_DATE='2023-02-26T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-02-26T00:00:00+00:00'
+[2023-12-06T22:10:36.594+0500] {taskinstance.py:1937} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/amina/miniconda/lib/python3.11/site-packages/airflow/operators/python.py", line 192, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/amina/miniconda/lib/python3.11/site-packages/airflow/operators/python.py", line 209, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/amina/airflow/dags/airflow_dag.py", line 45, in extract_data
+    with open(data_source_path, 'r') as file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/amina/airflow/dags/data.csv'
+[2023-12-06T22:10:36.601+0500] {taskinstance.py:1400} INFO - Marking task as UP_FOR_RETRY. dag_id=etl_dag2, task_id=extract_data, execution_date=20230226T000000, start_date=20231206T171035, end_date=20231206T171036
+[2023-12-06T22:10:36.759+0500] {standard_task_runner.py:104} ERROR - Failed to execute job 162 for task extract_data ([Errno 2] No such file or directory: '/home/amina/airflow/dags/data.csv'; 21417)
+[2023-12-06T22:10:36.807+0500] {local_task_job_runner.py:228} INFO - Task exited with return code 1
+[2023-12-06T22:10:37.163+0500] {taskinstance.py:2778} INFO - 0 downstream tasks scheduled from follow-on schedule check

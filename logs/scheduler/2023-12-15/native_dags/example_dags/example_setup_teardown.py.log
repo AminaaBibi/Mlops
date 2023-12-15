@@ -1,0 +1,413 @@
+[2023-12-15T21:43:19.733+0500] {processor.py:157} INFO - Started process (PID=7495) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:43:19.734+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T21:43:19.735+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:43:19.735+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:43:19.748+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:43:19.777+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:43:19.777+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T21:43:19.804+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:43:19.804+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T16:43:19.803597+00:00, run_after=2023-12-15T16:43:19.803597+00:00
+[2023-12-15T21:43:19.952+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.222 seconds
+[2023-12-15T21:44:14.386+0500] {processor.py:157} INFO - Started process (PID=7546) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:44:14.429+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T21:44:14.431+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:44:14.430+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:44:14.438+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:44:14.454+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:44:14.454+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T21:44:14.475+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:44:14.475+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T16:44:14.474862+00:00, run_after=2023-12-15T16:44:14.474862+00:00
+[2023-12-15T21:44:14.713+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.330 seconds
+[2023-12-15T21:47:55.114+0500] {processor.py:157} INFO - Started process (PID=7741) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:47:55.146+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T21:47:55.147+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:47:55.146+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:47:55.156+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:47:55.173+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:47:55.172+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T21:47:55.195+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:47:55.195+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T16:47:55.194999+00:00, run_after=2023-12-15T16:47:55.194999+00:00
+[2023-12-15T21:47:55.311+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.199 seconds
+[2023-12-15T21:48:55.291+0500] {processor.py:157} INFO - Started process (PID=7827) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:48:55.292+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T21:48:55.293+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:48:55.293+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:48:55.300+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:48:55.320+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:48:55.319+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T21:48:55.346+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:48:55.346+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T16:48:55.345883+00:00, run_after=2023-12-15T16:48:55.345883+00:00
+[2023-12-15T21:48:55.521+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.235 seconds
+[2023-12-15T21:49:59.486+0500] {processor.py:157} INFO - Started process (PID=7894) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:49:59.529+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T21:49:59.529+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:49:59.529+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:49:59.536+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:49:59.551+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:49:59.550+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T21:49:59.568+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:49:59.568+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T16:49:59.568413+00:00, run_after=2023-12-15T16:49:59.568413+00:00
+[2023-12-15T21:49:59.697+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.215 seconds
+[2023-12-15T21:51:24.221+0500] {processor.py:157} INFO - Started process (PID=8044) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:51:24.248+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T21:51:24.249+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:51:24.249+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:51:24.256+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:51:24.277+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:51:24.276+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T21:51:24.306+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:51:24.306+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T16:51:24.305798+00:00, run_after=2023-12-15T16:51:24.305798+00:00
+[2023-12-15T21:51:24.412+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.194 seconds
+[2023-12-15T21:53:08.187+0500] {processor.py:157} INFO - Started process (PID=8136) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:53:08.197+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T21:53:08.199+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:53:08.198+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:53:08.210+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:53:08.231+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:53:08.231+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T21:53:08.256+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:53:08.256+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T16:53:08.256033+00:00, run_after=2023-12-15T16:53:08.256033+00:00
+[2023-12-15T21:53:08.374+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.191 seconds
+[2023-12-15T21:54:02.529+0500] {processor.py:157} INFO - Started process (PID=8198) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:54:02.541+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T21:54:02.541+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:54:02.541+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:54:02.549+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:54:02.564+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:54:02.563+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T21:54:02.586+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:54:02.586+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T16:54:02.585698+00:00, run_after=2023-12-15T16:54:02.585698+00:00
+[2023-12-15T21:54:02.708+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.182 seconds
+[2023-12-15T21:54:49.070+0500] {processor.py:157} INFO - Started process (PID=8262) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:54:49.071+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T21:54:49.072+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:54:49.072+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:54:49.081+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:54:49.099+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:54:49.099+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T21:54:49.119+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:54:49.119+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T16:54:49.118882+00:00, run_after=2023-12-15T16:54:49.118882+00:00
+[2023-12-15T21:54:49.233+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.166 seconds
+[2023-12-15T21:55:49.382+0500] {processor.py:157} INFO - Started process (PID=8327) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:55:49.437+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T21:55:49.438+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:55:49.438+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:55:49.446+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:55:49.462+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:55:49.461+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T21:55:49.481+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:55:49.481+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T16:55:49.481154+00:00, run_after=2023-12-15T16:55:49.481154+00:00
+[2023-12-15T21:55:49.577+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.200 seconds
+[2023-12-15T21:56:40.234+0500] {processor.py:157} INFO - Started process (PID=8376) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:56:40.251+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T21:56:40.252+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:56:40.251+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:56:40.259+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:56:40.274+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:56:40.273+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T21:56:40.293+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:56:40.293+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T16:56:40.293127+00:00, run_after=2023-12-15T16:56:40.293127+00:00
+[2023-12-15T21:56:40.409+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.178 seconds
+[2023-12-15T21:57:32.558+0500] {processor.py:157} INFO - Started process (PID=8441) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:57:32.559+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T21:57:32.560+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:57:32.560+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:57:32.568+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:57:32.584+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:57:32.584+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T21:57:32.603+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:57:32.602+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T16:57:32.602656+00:00, run_after=2023-12-15T16:57:32.602656+00:00
+[2023-12-15T21:57:32.893+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.338 seconds
+[2023-12-15T21:58:27.074+0500] {processor.py:157} INFO - Started process (PID=8499) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:58:27.080+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T21:58:27.082+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:58:27.081+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:58:27.092+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:58:27.110+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:58:27.110+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T21:58:27.139+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:58:27.139+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T16:58:27.138859+00:00, run_after=2023-12-15T16:58:27.138859+00:00
+[2023-12-15T21:58:27.263+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.193 seconds
+[2023-12-15T21:59:20.959+0500] {processor.py:157} INFO - Started process (PID=8560) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:59:20.972+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T21:59:20.973+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:59:20.973+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:59:20.980+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T21:59:20.996+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:59:20.996+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T21:59:21.014+0500] {logging_mixin.py:154} INFO - [2023-12-15T21:59:21.014+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T16:59:21.014015+00:00, run_after=2023-12-15T16:59:21.014015+00:00
+[2023-12-15T21:59:21.132+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.177 seconds
+[2023-12-15T22:00:13.719+0500] {processor.py:157} INFO - Started process (PID=8619) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:00:13.783+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:00:13.784+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:00:13.784+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:00:13.793+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:00:13.811+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:00:13.811+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:00:13.829+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:00:13.829+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:00:13.829174+00:00, run_after=2023-12-15T17:00:13.829174+00:00
+[2023-12-15T22:00:13.928+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.212 seconds
+[2023-12-15T22:01:09.105+0500] {processor.py:157} INFO - Started process (PID=8701) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:01:09.129+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:01:09.129+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:01:09.129+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:01:09.141+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:01:09.161+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:01:09.161+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:01:09.187+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:01:09.187+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:01:09.187072+00:00, run_after=2023-12-15T17:01:09.187072+00:00
+[2023-12-15T22:01:09.324+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.224 seconds
+[2023-12-15T22:02:00.234+0500] {processor.py:157} INFO - Started process (PID=8758) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:02:00.246+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:02:00.247+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:02:00.247+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:02:00.254+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:02:00.269+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:02:00.268+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:02:00.292+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:02:00.292+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:02:00.292264+00:00, run_after=2023-12-15T17:02:00.292264+00:00
+[2023-12-15T22:02:00.401+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.170 seconds
+[2023-12-15T22:02:51.875+0500] {processor.py:157} INFO - Started process (PID=8816) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:02:51.933+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:02:51.933+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:02:51.933+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:02:51.941+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:02:51.957+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:02:51.957+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:02:51.976+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:02:51.976+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:02:51.976187+00:00, run_after=2023-12-15T17:02:51.976187+00:00
+[2023-12-15T22:02:52.070+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.197 seconds
+[2023-12-15T22:03:59.873+0500] {processor.py:157} INFO - Started process (PID=8892) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:03:59.894+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:03:59.895+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:03:59.894+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:03:59.903+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:03:59.922+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:03:59.921+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:03:59.945+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:03:59.945+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:03:59.945554+00:00, run_after=2023-12-15T17:03:59.945554+00:00
+[2023-12-15T22:04:00.055+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.186 seconds
+[2023-12-15T22:05:06.055+0500] {processor.py:157} INFO - Started process (PID=8966) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:05:06.065+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:05:06.067+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:05:06.066+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:05:06.077+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:05:06.097+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:05:06.097+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:05:06.124+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:05:06.124+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:05:06.123827+00:00, run_after=2023-12-15T17:05:06.123827+00:00
+[2023-12-15T22:05:06.226+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.175 seconds
+[2023-12-15T22:06:06.086+0500] {processor.py:157} INFO - Started process (PID=9032) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:06:06.126+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:06:06.126+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:06:06.126+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:06:06.134+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:06:06.151+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:06:06.151+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:06:06.171+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:06:06.171+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:06:06.170776+00:00, run_after=2023-12-15T17:06:06.170776+00:00
+[2023-12-15T22:06:06.271+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.188 seconds
+[2023-12-15T22:07:04.480+0500] {processor.py:157} INFO - Started process (PID=9086) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:07:04.547+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:07:04.548+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:07:04.548+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:07:04.555+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:07:04.576+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:07:04.576+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:07:04.604+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:07:04.604+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:07:04.603942+00:00, run_after=2023-12-15T17:07:04.603942+00:00
+[2023-12-15T22:07:04.714+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.241 seconds
+[2023-12-15T22:08:09.439+0500] {processor.py:157} INFO - Started process (PID=9154) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:08:09.489+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:08:09.490+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:08:09.489+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:08:09.501+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:08:09.519+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:08:09.519+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:08:09.540+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:08:09.540+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:08:09.540265+00:00, run_after=2023-12-15T17:08:09.540265+00:00
+[2023-12-15T22:08:09.632+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.197 seconds
+[2023-12-15T22:09:15.000+0500] {processor.py:157} INFO - Started process (PID=9231) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:09:15.010+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:09:15.011+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:09:15.011+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:09:15.021+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:09:15.038+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:09:15.038+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:09:15.060+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:09:15.059+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:09:15.059601+00:00, run_after=2023-12-15T17:09:15.059601+00:00
+[2023-12-15T22:09:15.157+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.162 seconds
+[2023-12-15T22:10:15.540+0500] {processor.py:157} INFO - Started process (PID=9295) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:10:15.602+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:10:15.603+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:10:15.603+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:10:15.612+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:10:15.628+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:10:15.628+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:10:15.648+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:10:15.647+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:10:15.647641+00:00, run_after=2023-12-15T17:10:15.647641+00:00
+[2023-12-15T22:10:15.729+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.192 seconds
+[2023-12-15T22:11:19.067+0500] {processor.py:157} INFO - Started process (PID=9356) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:11:19.109+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:11:19.110+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:11:19.110+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:11:19.117+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:11:19.132+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:11:19.132+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:11:19.152+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:11:19.152+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:11:19.152126+00:00, run_after=2023-12-15T17:11:19.152126+00:00
+[2023-12-15T22:11:19.234+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.170 seconds
+[2023-12-15T22:12:15.523+0500] {processor.py:157} INFO - Started process (PID=9414) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:12:15.544+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:12:15.545+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:12:15.544+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:12:15.555+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:12:15.573+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:12:15.573+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:12:15.596+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:12:15.596+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:12:15.595667+00:00, run_after=2023-12-15T17:12:15.595667+00:00
+[2023-12-15T22:12:15.704+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.185 seconds
+[2023-12-15T22:13:12.007+0500] {processor.py:157} INFO - Started process (PID=9475) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:13:12.023+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:13:12.024+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:13:12.023+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:13:12.031+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:13:12.053+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:13:12.052+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:13:12.076+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:13:12.076+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:13:12.076379+00:00, run_after=2023-12-15T17:13:12.076379+00:00
+[2023-12-15T22:13:12.190+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.187 seconds
+[2023-12-15T22:13:58.306+0500] {processor.py:157} INFO - Started process (PID=9534) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:13:58.327+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:13:58.328+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:13:58.328+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:13:58.337+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:13:58.359+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:13:58.359+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:13:58.378+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:13:58.377+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:13:58.377789+00:00, run_after=2023-12-15T17:13:58.377789+00:00
+[2023-12-15T22:13:58.482+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.180 seconds
+[2023-12-15T22:15:12.189+0500] {processor.py:157} INFO - Started process (PID=9617) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:15:12.205+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:15:12.207+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:15:12.206+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:15:12.219+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:15:12.239+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:15:12.239+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:15:12.270+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:15:12.270+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:15:12.270437+00:00, run_after=2023-12-15T17:15:12.270437+00:00
+[2023-12-15T22:15:12.378+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.194 seconds
+[2023-12-15T22:16:20.733+0500] {processor.py:157} INFO - Started process (PID=9689) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:16:20.798+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:16:20.799+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:16:20.798+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:16:20.810+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:16:20.828+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:16:20.827+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:16:20.849+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:16:20.848+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:16:20.848721+00:00, run_after=2023-12-15T17:16:20.848721+00:00
+[2023-12-15T22:16:20.940+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.210 seconds
+[2023-12-15T22:17:27.144+0500] {processor.py:157} INFO - Started process (PID=9761) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:17:27.184+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:17:27.185+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:17:27.185+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:17:27.193+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:17:27.209+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:17:27.209+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:17:27.230+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:17:27.230+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:17:27.229906+00:00, run_after=2023-12-15T17:17:27.229906+00:00
+[2023-12-15T22:17:27.313+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.172 seconds
+[2023-12-15T22:18:28.958+0500] {processor.py:157} INFO - Started process (PID=9836) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:18:29.018+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:18:29.019+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:18:29.018+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:18:29.026+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:18:29.046+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:18:29.045+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:18:29.070+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:18:29.069+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:18:29.069523+00:00, run_after=2023-12-15T17:18:29.069523+00:00
+[2023-12-15T22:18:29.171+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.216 seconds
+[2023-12-15T22:19:32.528+0500] {processor.py:157} INFO - Started process (PID=9946) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:19:32.575+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:19:32.576+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:19:32.575+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:19:32.585+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:19:32.603+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:19:32.603+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:19:32.628+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:19:32.627+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:19:32.627625+00:00, run_after=2023-12-15T17:19:32.627625+00:00
+[2023-12-15T22:19:32.746+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.222 seconds
+[2023-12-15T22:20:45.997+0500] {processor.py:157} INFO - Started process (PID=10118) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:20:46.009+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:20:46.010+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:20:46.010+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:20:46.019+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:20:46.037+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:20:46.037+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:20:46.060+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:20:46.059+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:20:46.059455+00:00, run_after=2023-12-15T17:20:46.059455+00:00
+[2023-12-15T22:20:46.195+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.201 seconds
+[2023-12-15T22:21:39.561+0500] {processor.py:157} INFO - Started process (PID=10177) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:21:39.567+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:21:39.568+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:21:39.568+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:21:39.576+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:21:39.594+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:21:39.593+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:21:39.617+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:21:39.617+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:21:39.617329+00:00, run_after=2023-12-15T17:21:39.617329+00:00
+[2023-12-15T22:21:39.726+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.168 seconds
+[2023-12-15T22:22:31.950+0500] {processor.py:157} INFO - Started process (PID=10240) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:22:31.985+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:22:31.986+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:22:31.986+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:22:31.995+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:22:32.012+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:22:32.012+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:22:32.035+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:22:32.035+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:22:32.035230+00:00, run_after=2023-12-15T17:22:32.035230+00:00
+[2023-12-15T22:22:32.170+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.223 seconds
+[2023-12-15T22:23:24.943+0500] {processor.py:157} INFO - Started process (PID=10294) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:23:24.959+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:23:24.960+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:23:24.959+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:23:24.967+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:23:24.984+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:23:24.984+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:23:25.010+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:23:25.009+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:23:25.009756+00:00, run_after=2023-12-15T17:23:25.009756+00:00
+[2023-12-15T22:23:25.115+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.177 seconds
+[2023-12-15T22:24:17.549+0500] {processor.py:157} INFO - Started process (PID=10355) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:24:17.550+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:24:17.551+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:24:17.551+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:24:17.560+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:24:17.578+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:24:17.578+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:24:17.598+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:24:17.598+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:24:17.598064+00:00, run_after=2023-12-15T17:24:17.598064+00:00
+[2023-12-15T22:24:17.721+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.175 seconds
+[2023-12-15T22:25:11.455+0500] {processor.py:157} INFO - Started process (PID=10416) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:25:11.478+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:25:11.479+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:25:11.478+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:25:11.491+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:25:11.509+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:25:11.509+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:25:11.530+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:25:11.530+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:25:11.529649+00:00, run_after=2023-12-15T17:25:11.529649+00:00
+[2023-12-15T22:25:11.649+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.197 seconds
+[2023-12-15T22:26:07.689+0500] {processor.py:157} INFO - Started process (PID=10466) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:26:07.739+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:26:07.741+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:26:07.740+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:26:07.750+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:26:07.767+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:26:07.767+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:26:07.788+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:26:07.788+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:26:07.788469+00:00, run_after=2023-12-15T17:26:07.788469+00:00
+[2023-12-15T22:26:07.910+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.224 seconds
+[2023-12-15T22:27:01.926+0500] {processor.py:157} INFO - Started process (PID=10522) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:27:01.954+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:27:01.956+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:27:01.955+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:27:01.963+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:27:01.981+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:27:01.980+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:27:02.007+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:27:02.006+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:27:02.006613+00:00, run_after=2023-12-15T17:27:02.006613+00:00
+[2023-12-15T22:27:02.113+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.189 seconds
+[2023-12-15T22:27:54.755+0500] {processor.py:157} INFO - Started process (PID=10580) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:27:54.774+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:27:54.775+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:27:54.775+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:27:54.789+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:27:54.811+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:27:54.811+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:27:54.836+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:27:54.836+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:27:54.836401+00:00, run_after=2023-12-15T17:27:54.836401+00:00
+[2023-12-15T22:27:54.941+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.189 seconds
+[2023-12-15T22:28:48.239+0500] {processor.py:157} INFO - Started process (PID=10644) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:28:48.283+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:28:48.284+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:28:48.284+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:28:48.296+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:28:48.323+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:28:48.323+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:28:48.358+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:28:48.358+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:28:48.357963+00:00, run_after=2023-12-15T17:28:48.357963+00:00
+[2023-12-15T22:28:48.490+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.255 seconds
+[2023-12-15T22:30:06.439+0500] {processor.py:157} INFO - Started process (PID=10754) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:30:06.492+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:30:06.494+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:30:06.493+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:30:06.501+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:30:06.523+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:30:06.522+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:30:06.547+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:30:06.547+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:30:06.547109+00:00, run_after=2023-12-15T17:30:06.547109+00:00
+[2023-12-15T22:30:06.662+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.228 seconds
+[2023-12-15T22:31:14.822+0500] {processor.py:157} INFO - Started process (PID=10821) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:31:14.885+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:31:14.886+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:31:14.886+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:31:14.893+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:31:14.910+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:31:14.910+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:31:14.930+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:31:14.930+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:31:14.930563+00:00, run_after=2023-12-15T17:31:14.930563+00:00
+[2023-12-15T22:31:15.028+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.209 seconds
+[2023-12-15T22:32:07.178+0500] {processor.py:157} INFO - Started process (PID=10882) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:32:07.240+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:32:07.241+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:32:07.241+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:32:07.250+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:32:07.268+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:32:07.267+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:32:07.291+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:32:07.291+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:32:07.291479+00:00, run_after=2023-12-15T17:32:07.291479+00:00
+[2023-12-15T22:32:07.406+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.231 seconds
+[2023-12-15T22:33:01.756+0500] {processor.py:157} INFO - Started process (PID=10934) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:33:01.806+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:33:01.807+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:33:01.807+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:33:01.816+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:33:01.833+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:33:01.833+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:33:01.856+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:33:01.856+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:33:01.855876+00:00, run_after=2023-12-15T17:33:01.855876+00:00
+[2023-12-15T22:33:01.971+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.219 seconds
+[2023-12-15T22:33:54.265+0500] {processor.py:157} INFO - Started process (PID=10993) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:33:54.288+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:33:54.290+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:33:54.289+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:33:54.298+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:33:54.315+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:33:54.315+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:33:54.337+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:33:54.337+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:33:54.336960+00:00, run_after=2023-12-15T17:33:54.336960+00:00
+[2023-12-15T22:33:54.460+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.198 seconds
+[2023-12-15T22:34:49.247+0500] {processor.py:157} INFO - Started process (PID=11058) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:34:49.288+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:34:49.288+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:34:49.288+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:34:49.296+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:34:49.314+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:34:49.314+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:34:49.338+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:34:49.337+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:34:49.337611+00:00, run_after=2023-12-15T17:34:49.337611+00:00
+[2023-12-15T22:34:49.465+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.221 seconds
+[2023-12-15T22:35:44.036+0500] {processor.py:157} INFO - Started process (PID=11121) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:35:44.090+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:35:44.091+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:35:44.091+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:35:44.100+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:35:44.116+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:35:44.116+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:35:44.136+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:35:44.136+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:35:44.136479+00:00, run_after=2023-12-15T17:35:44.136479+00:00
+[2023-12-15T22:35:44.252+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.218 seconds
+[2023-12-15T22:36:40.253+0500] {processor.py:157} INFO - Started process (PID=11177) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:36:40.261+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:36:40.262+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:36:40.262+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:36:40.272+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:36:40.292+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:36:40.292+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:36:40.315+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:36:40.315+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:36:40.315069+00:00, run_after=2023-12-15T17:36:40.315069+00:00
+[2023-12-15T22:36:40.439+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.191 seconds
+[2023-12-15T22:37:34.518+0500] {processor.py:157} INFO - Started process (PID=11236) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:37:34.563+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:37:34.565+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:37:34.565+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:37:34.577+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:37:34.615+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:37:34.615+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:37:34.646+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:37:34.646+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:37:34.646307+00:00, run_after=2023-12-15T17:37:34.646307+00:00
+[2023-12-15T22:37:34.747+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.232 seconds
+[2023-12-15T22:38:28.555+0500] {processor.py:157} INFO - Started process (PID=11292) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:38:28.606+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:38:28.606+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:38:28.606+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:38:28.613+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:38:28.628+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:38:28.628+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:38:28.646+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:38:28.646+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:38:28.646013+00:00, run_after=2023-12-15T17:38:28.646013+00:00
+[2023-12-15T22:38:28.757+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.205 seconds
+[2023-12-15T22:39:21.879+0500] {processor.py:157} INFO - Started process (PID=11350) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:39:21.926+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:39:21.927+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:39:21.926+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:39:21.936+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:39:21.955+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:39:21.954+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:39:21.978+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:39:21.978+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:39:21.978063+00:00, run_after=2023-12-15T17:39:21.978063+00:00
+[2023-12-15T22:39:22.098+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.223 seconds
+[2023-12-15T22:40:16.378+0500] {processor.py:157} INFO - Started process (PID=11405) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:40:16.409+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:40:16.410+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:40:16.410+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:40:16.417+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:40:16.431+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:40:16.431+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:40:16.449+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:40:16.449+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:40:16.448990+00:00, run_after=2023-12-15T17:40:16.448990+00:00
+[2023-12-15T22:40:16.557+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.182 seconds
+[2023-12-15T22:41:14.042+0500] {processor.py:157} INFO - Started process (PID=11544) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:41:14.081+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:41:14.081+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:41:14.081+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:41:14.088+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:41:14.102+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:41:14.102+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:41:14.120+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:41:14.120+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:41:14.120157+00:00, run_after=2023-12-15T17:41:14.120157+00:00
+[2023-12-15T22:41:14.228+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.188 seconds
+[2023-12-15T22:42:06.599+0500] {processor.py:157} INFO - Started process (PID=11616) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:42:06.652+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:42:06.653+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:42:06.653+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:42:06.668+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:42:06.693+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:42:06.693+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:42:06.728+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:42:06.727+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:42:06.727365+00:00, run_after=2023-12-15T17:42:06.727365+00:00
+[2023-12-15T22:42:06.852+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.256 seconds
+[2023-12-15T22:42:59.991+0500] {processor.py:157} INFO - Started process (PID=11673) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:43:00.011+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-12-15T22:43:00.012+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:43:00.012+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:43:00.019+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-12-15T22:43:00.035+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:43:00.035+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-15T22:43:00.054+0500] {logging_mixin.py:154} INFO - [2023-12-15T22:43:00.054+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-12-14T17:43:00.054057+00:00, run_after=2023-12-15T17:43:00.054057+00:00
+[2023-12-15T22:43:00.346+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.357 seconds
