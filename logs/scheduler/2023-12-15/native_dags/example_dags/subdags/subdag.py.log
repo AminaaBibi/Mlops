@@ -413,3 +413,833 @@
 [2023-12-15T23:27:22.171+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:27:22.171+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
 [2023-12-15T23:27:22.173+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
 [2023-12-15T23:27:22.185+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.089 seconds
+[2023-12-15T23:29:03.286+0500] {processor.py:157} INFO - Started process (PID=20735) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:29:03.330+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:29:03.331+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:29:03.331+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:29:03.334+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:29:03.345+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.062 seconds
+[2023-12-15T23:29:56.949+0500] {processor.py:157} INFO - Started process (PID=20788) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:29:56.977+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:29:56.978+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:29:56.978+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:29:56.981+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:29:56.992+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.047 seconds
+[2023-12-15T23:30:50.209+0500] {processor.py:157} INFO - Started process (PID=20844) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:30:50.247+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:30:50.248+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:30:50.248+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:30:50.251+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:30:50.265+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.061 seconds
+[2023-12-15T23:31:47.572+0500] {processor.py:157} INFO - Started process (PID=20893) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:31:47.652+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:31:47.654+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:31:47.653+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:31:47.656+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:31:47.669+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.101 seconds
+[2023-12-15T23:32:55.668+0500] {processor.py:157} INFO - Started process (PID=21458) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:32:55.734+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:32:55.735+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:32:55.734+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:32:55.738+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:32:55.753+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.088 seconds
+[2023-12-15T23:33:34.157+0500] {processor.py:157} INFO - Started process (PID=23681) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:33:34.446+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:33:34.447+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:33:34.447+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:33:34.450+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:33:34.463+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.310 seconds
+[2023-12-15T23:34:10.128+0500] {processor.py:157} INFO - Started process (PID=31247) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:34:10.148+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:34:10.149+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:34:10.149+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:34:10.151+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:34:10.170+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.046 seconds
+[2023-12-15T23:35:12.859+0500] {processor.py:157} INFO - Started process (PID=43178) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:35:12.872+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:35:12.873+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:35:12.872+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:35:12.876+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:35:12.888+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.034 seconds
+[2023-12-15T23:36:21.037+0500] {processor.py:157} INFO - Started process (PID=44571) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:36:21.049+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:36:21.050+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:36:21.050+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:36:21.052+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:36:21.066+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.033 seconds
+[2023-12-15T23:37:19.559+0500] {processor.py:157} INFO - Started process (PID=45743) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:37:19.582+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:37:19.583+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:37:19.582+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:37:19.585+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:37:19.599+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.044 seconds
+[2023-12-15T23:38:16.249+0500] {processor.py:157} INFO - Started process (PID=46885) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:38:16.322+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:38:16.323+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:38:16.323+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:38:16.325+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:38:16.338+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.095 seconds
+[2023-12-15T23:39:25.040+0500] {processor.py:157} INFO - Started process (PID=53766) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:39:25.089+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:39:25.090+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:39:25.090+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:39:25.093+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:39:25.108+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.071 seconds
+[2023-12-15T23:40:31.165+0500] {processor.py:157} INFO - Started process (PID=54919) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:40:31.232+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:40:31.233+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:40:31.233+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:40:31.236+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:40:31.255+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.095 seconds
+[2023-12-15T23:41:40.218+0500] {processor.py:157} INFO - Started process (PID=56241) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:41:40.268+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:41:40.270+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:41:40.269+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:41:40.273+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:41:40.286+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.071 seconds
+[2023-12-15T23:42:45.070+0500] {processor.py:157} INFO - Started process (PID=57331) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:42:45.106+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:42:45.108+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:42:45.107+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:42:45.111+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:42:45.129+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.064 seconds
+[2023-12-15T23:43:50.118+0500] {processor.py:157} INFO - Started process (PID=58767) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:43:50.155+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:43:50.157+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:43:50.156+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:43:50.160+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:43:50.177+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.063 seconds
+[2023-12-15T23:44:50.808+0500] {processor.py:157} INFO - Started process (PID=59672) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:44:50.887+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:44:50.888+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:44:50.887+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:44:50.890+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:44:50.908+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.104 seconds
+[2023-12-15T23:45:26.078+0500] {processor.py:157} INFO - Started process (PID=60356) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:45:26.088+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:45:26.090+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:45:26.089+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:45:26.093+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:45:26.110+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.041 seconds
+[2023-12-15T23:46:01.732+0500] {processor.py:157} INFO - Started process (PID=61126) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:46:01.747+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:46:01.748+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:46:01.748+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:46:01.751+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:46:01.766+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.039 seconds
+[2023-12-15T23:46:37.299+0500] {processor.py:157} INFO - Started process (PID=61757) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:46:37.336+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:46:37.336+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:46:37.336+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:46:37.339+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:46:37.355+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.060 seconds
+[2023-12-15T23:47:48.404+0500] {processor.py:157} INFO - Started process (PID=64299) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:47:48.424+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:47:48.425+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:47:48.425+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:47:48.427+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:47:48.441+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.042 seconds
+[2023-12-15T23:48:25.312+0500] {processor.py:157} INFO - Started process (PID=65072) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:48:25.345+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:48:25.347+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:48:25.346+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:48:25.350+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:48:25.365+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.058 seconds
+[2023-12-15T23:49:00.726+0500] {processor.py:157} INFO - Started process (PID=65757) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:49:00.743+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:49:00.744+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:49:00.744+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:49:00.747+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:49:00.760+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.038 seconds
+[2023-12-15T23:49:36.400+0500] {processor.py:157} INFO - Started process (PID=66451) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:49:36.419+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:49:36.421+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:49:36.420+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:49:36.425+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:49:36.442+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.047 seconds
+[2023-12-15T23:50:44.015+0500] {processor.py:157} INFO - Started process (PID=73324) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:50:44.072+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:50:44.073+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:50:44.072+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:50:44.076+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:50:44.086+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.076 seconds
+[2023-12-15T23:51:21.194+0500] {processor.py:157} INFO - Started process (PID=73703) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:51:21.215+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:51:21.216+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:51:21.215+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:51:21.218+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:51:21.230+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.041 seconds
+[2023-12-15T23:52:18.677+0500] {processor.py:157} INFO - Started process (PID=74564) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:52:18.687+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:52:18.688+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:52:18.688+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:52:18.690+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:52:18.702+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2023-12-15T23:53:24.312+0500] {processor.py:157} INFO - Started process (PID=75725) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:53:24.355+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:53:24.356+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:53:24.356+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:53:24.359+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:53:24.376+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.069 seconds
+[2023-12-15T23:53:59.630+0500] {processor.py:157} INFO - Started process (PID=76199) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:53:59.677+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:53:59.678+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:53:59.677+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:53:59.680+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:53:59.693+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.067 seconds
+[2023-12-15T23:55:07.678+0500] {processor.py:157} INFO - Started process (PID=78118) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:55:07.709+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:55:07.710+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:55:07.709+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:55:07.712+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:55:07.724+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.049 seconds
+[2023-12-15T23:55:44.113+0500] {processor.py:157} INFO - Started process (PID=79150) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:55:44.141+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:55:44.142+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:55:44.141+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:55:44.145+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:55:44.163+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.056 seconds
+[2023-12-15T23:56:44.294+0500] {processor.py:157} INFO - Started process (PID=80219) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:56:44.318+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:56:44.319+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:56:44.318+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:56:44.321+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:56:44.336+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.047 seconds
+[2023-12-15T23:57:42.125+0500] {processor.py:157} INFO - Started process (PID=81629) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:57:42.150+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:57:42.151+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:57:42.151+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:57:42.154+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:57:42.165+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.043 seconds
+[2023-12-15T23:58:38.112+0500] {processor.py:157} INFO - Started process (PID=82924) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:58:38.138+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:58:38.140+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:58:38.139+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:58:38.143+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:58:38.160+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.052 seconds
+[2023-12-15T23:59:37.184+0500] {processor.py:157} INFO - Started process (PID=83563) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:59:37.236+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-15T23:59:37.237+0500] {logging_mixin.py:154} INFO - [2023-12-15T23:59:37.236+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:59:37.239+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-15T23:59:37.253+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.074 seconds
+[2023-12-16T00:00:14.085+0500] {processor.py:157} INFO - Started process (PID=84365) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:00:14.124+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:00:14.126+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:00:14.125+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:00:14.129+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:00:14.145+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.065 seconds
+[2023-12-16T00:01:17.502+0500] {processor.py:157} INFO - Started process (PID=85481) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:01:17.523+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:01:17.525+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:01:17.525+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:01:17.527+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:01:17.542+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.044 seconds
+[2023-12-16T00:02:15.996+0500] {processor.py:157} INFO - Started process (PID=86729) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:02:16.014+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:02:16.016+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:02:16.015+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:02:16.019+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:02:16.036+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.045 seconds
+[2023-12-16T00:03:13.174+0500] {processor.py:157} INFO - Started process (PID=87588) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:03:13.212+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:03:13.214+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:03:13.213+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:03:13.217+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:03:13.234+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.063 seconds
+[2023-12-16T00:04:12.616+0500] {processor.py:157} INFO - Started process (PID=88727) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:04:12.656+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:04:12.657+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:04:12.656+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:04:12.659+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:04:12.680+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.068 seconds
+[2023-12-16T00:05:13.929+0500] {processor.py:157} INFO - Started process (PID=90236) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:05:14.000+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:05:14.001+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:05:14.001+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:05:14.003+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:05:14.019+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.095 seconds
+[2023-12-16T00:06:16.359+0500] {processor.py:157} INFO - Started process (PID=91469) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:06:16.411+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:06:16.412+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:06:16.411+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:06:16.414+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:06:16.429+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.075 seconds
+[2023-12-16T00:06:52.401+0500] {processor.py:157} INFO - Started process (PID=92541) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:06:52.436+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:06:52.437+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:06:52.437+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:06:52.439+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:06:52.450+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.053 seconds
+[2023-12-16T00:07:52.053+0500] {processor.py:157} INFO - Started process (PID=94055) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:07:52.091+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:07:52.092+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:07:52.092+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:07:52.094+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:07:52.107+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.057 seconds
+[2023-12-16T00:09:04.090+0500] {processor.py:157} INFO - Started process (PID=94954) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:09:04.313+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:09:04.314+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:09:04.314+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:09:04.318+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:09:04.334+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.247 seconds
+[2023-12-16T00:09:40.748+0500] {processor.py:157} INFO - Started process (PID=98741) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:09:40.757+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:09:40.759+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:09:40.758+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:09:40.764+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:09:40.783+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.039 seconds
+[2023-12-16T00:10:20.191+0500] {processor.py:157} INFO - Started process (PID=101984) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:10:20.235+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:10:20.237+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:10:20.236+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:10:20.239+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:10:20.251+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.065 seconds
+[2023-12-16T00:11:02.587+0500] {processor.py:157} INFO - Started process (PID=103984) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:11:02.648+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:11:02.649+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:11:02.648+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:11:02.652+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:11:02.667+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.085 seconds
+[2023-12-16T00:11:42.990+0500] {processor.py:157} INFO - Started process (PID=104184) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:11:43.042+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:11:43.043+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:11:43.042+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:11:43.045+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:11:43.058+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.072 seconds
+[2023-12-16T00:12:44.846+0500] {processor.py:157} INFO - Started process (PID=104237) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:12:44.850+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:12:44.851+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:12:44.851+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:12:44.853+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:12:44.865+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2023-12-16T00:13:39.619+0500] {processor.py:157} INFO - Started process (PID=104404) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:13:39.632+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:13:39.633+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:13:39.633+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:13:39.636+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:13:39.650+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.034 seconds
+[2023-12-16T00:14:32.329+0500] {processor.py:157} INFO - Started process (PID=104504) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:14:32.349+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:14:32.350+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:14:32.349+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:14:32.352+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:14:32.362+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.036 seconds
+[2023-12-16T00:15:25.139+0500] {processor.py:157} INFO - Started process (PID=104556) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:15:25.200+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:15:25.201+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:15:25.201+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:15:25.204+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:15:25.216+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.080 seconds
+[2023-12-16T00:16:19.483+0500] {processor.py:157} INFO - Started process (PID=104606) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:16:19.526+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:16:19.527+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:16:19.526+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:16:19.530+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:16:19.541+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.062 seconds
+[2023-12-16T00:17:11.962+0500] {processor.py:157} INFO - Started process (PID=104657) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:17:11.986+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:17:11.987+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:17:11.986+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:17:11.989+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:17:12.002+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.045 seconds
+[2023-12-16T00:18:08.189+0500] {processor.py:157} INFO - Started process (PID=104718) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:18:08.211+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:18:08.213+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:18:08.212+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:18:08.215+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:18:08.225+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.041 seconds
+[2023-12-16T00:19:01.234+0500] {processor.py:157} INFO - Started process (PID=104769) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:19:01.250+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:19:01.251+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:19:01.251+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:19:01.253+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:19:01.264+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.033 seconds
+[2023-12-16T00:19:52.491+0500] {processor.py:157} INFO - Started process (PID=104821) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:19:52.531+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:19:52.532+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:19:52.531+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:19:52.534+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:19:52.544+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.056 seconds
+[2023-12-16T00:20:43.076+0500] {processor.py:157} INFO - Started process (PID=104866) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:20:43.100+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:20:43.101+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:20:43.100+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:20:43.102+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:20:43.115+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.043 seconds
+[2023-12-16T00:21:37.509+0500] {processor.py:157} INFO - Started process (PID=104915) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:21:37.537+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:21:37.538+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:21:37.538+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:21:37.540+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:21:37.551+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.045 seconds
+[2023-12-16T00:22:27.029+0500] {processor.py:157} INFO - Started process (PID=104962) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:22:27.084+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:22:27.085+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:22:27.084+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:22:27.086+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:22:27.100+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.075 seconds
+[2023-12-16T00:23:24.614+0500] {processor.py:157} INFO - Started process (PID=105022) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:23:24.664+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:23:24.665+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:23:24.665+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:23:24.667+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:23:24.679+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.069 seconds
+[2023-12-16T00:24:23.430+0500] {processor.py:157} INFO - Started process (PID=105411) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:24:23.468+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:24:23.469+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:24:23.469+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:24:23.471+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:24:23.483+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.057 seconds
+[2023-12-16T00:25:21.065+0500] {processor.py:157} INFO - Started process (PID=105470) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:25:21.083+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:25:21.084+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:25:21.084+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:25:21.087+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:25:21.098+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.037 seconds
+[2023-12-16T00:26:16.641+0500] {processor.py:157} INFO - Started process (PID=105519) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:26:16.663+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:26:16.664+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:26:16.664+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:26:16.666+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:26:16.678+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.040 seconds
+[2023-12-16T00:27:10.663+0500] {processor.py:157} INFO - Started process (PID=105567) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:27:10.710+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:27:10.712+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:27:10.711+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:27:10.715+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:27:10.726+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.066 seconds
+[2023-12-16T00:28:05.420+0500] {processor.py:157} INFO - Started process (PID=105617) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:28:05.423+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:28:05.424+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:28:05.423+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:28:05.427+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:28:05.438+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2023-12-16T00:29:00.047+0500] {processor.py:157} INFO - Started process (PID=105674) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:29:00.082+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:29:00.083+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:29:00.082+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:29:00.086+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:29:00.100+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.056 seconds
+[2023-12-16T00:29:59.526+0500] {processor.py:157} INFO - Started process (PID=105731) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:29:59.561+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:29:59.562+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:29:59.561+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:29:59.565+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:29:59.576+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.054 seconds
+[2023-12-16T00:31:02.063+0500] {processor.py:157} INFO - Started process (PID=105785) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:31:02.077+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:31:02.078+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:31:02.078+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:31:02.081+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:31:02.092+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.032 seconds
+[2023-12-16T00:31:54.241+0500] {processor.py:157} INFO - Started process (PID=105834) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:31:54.265+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:31:54.266+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:31:54.266+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:31:54.268+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:31:54.279+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.041 seconds
+[2023-12-16T00:32:45.820+0500] {processor.py:157} INFO - Started process (PID=105886) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:32:45.821+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:32:45.822+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:32:45.821+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:32:45.824+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:32:45.835+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2023-12-16T00:33:36.076+0500] {processor.py:157} INFO - Started process (PID=105936) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:33:36.147+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:33:36.149+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:33:36.148+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:33:36.151+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:33:36.163+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.090 seconds
+[2023-12-16T00:34:27.947+0500] {processor.py:157} INFO - Started process (PID=105984) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:34:27.948+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:34:27.949+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:34:27.949+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:34:27.951+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:34:27.962+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2023-12-16T00:35:20.705+0500] {processor.py:157} INFO - Started process (PID=106031) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:35:20.751+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:35:20.752+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:35:20.752+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:35:20.754+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:35:20.765+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.063 seconds
+[2023-12-16T00:36:11.033+0500] {processor.py:157} INFO - Started process (PID=106079) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:36:11.074+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:36:11.075+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:36:11.074+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:36:11.077+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:36:11.087+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.059 seconds
+[2023-12-16T00:37:03.186+0500] {processor.py:157} INFO - Started process (PID=106127) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:37:03.209+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:37:03.209+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:37:03.209+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:37:03.212+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:37:03.221+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.039 seconds
+[2023-12-16T00:37:54.215+0500] {processor.py:157} INFO - Started process (PID=106176) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:37:54.273+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:37:54.274+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:37:54.273+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:37:54.276+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:37:54.287+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.075 seconds
+[2023-12-16T00:38:44.223+0500] {processor.py:157} INFO - Started process (PID=106227) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:38:44.233+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:38:44.235+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:38:44.234+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:38:44.237+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:38:44.248+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2023-12-16T00:39:35.772+0500] {processor.py:157} INFO - Started process (PID=106274) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:39:35.787+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:39:35.788+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:39:35.787+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:39:35.790+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:39:35.802+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.035 seconds
+[2023-12-16T00:40:31.745+0500] {processor.py:157} INFO - Started process (PID=106323) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:40:31.766+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:40:31.768+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:40:31.767+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:40:31.770+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:40:31.781+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.040 seconds
+[2023-12-16T00:41:28.046+0500] {processor.py:157} INFO - Started process (PID=106377) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:41:28.068+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:41:28.070+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:41:28.069+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:41:28.072+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:41:28.082+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.041 seconds
+[2023-12-16T00:42:21.395+0500] {processor.py:157} INFO - Started process (PID=106424) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:42:21.397+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:42:21.398+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:42:21.398+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:42:21.400+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:42:21.414+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2023-12-16T00:43:16.488+0500] {processor.py:157} INFO - Started process (PID=106478) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:43:16.509+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:43:16.510+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:43:16.509+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:43:16.512+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:43:16.523+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.038 seconds
+[2023-12-16T00:44:12.052+0500] {processor.py:157} INFO - Started process (PID=106525) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:44:12.097+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:44:12.098+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:44:12.098+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:44:12.101+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:44:12.111+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.064 seconds
+[2023-12-16T00:45:11.268+0500] {processor.py:157} INFO - Started process (PID=106578) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:45:11.287+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:45:11.288+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:45:11.287+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:45:11.290+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:45:11.304+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.040 seconds
+[2023-12-16T00:46:02.608+0500] {processor.py:157} INFO - Started process (PID=106626) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:46:02.640+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:46:02.641+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:46:02.641+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:46:02.643+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:46:02.654+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.049 seconds
+[2023-12-16T00:46:59.047+0500] {processor.py:157} INFO - Started process (PID=106676) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:46:59.083+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:46:59.084+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:46:59.083+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:46:59.086+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:46:59.096+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.053 seconds
+[2023-12-16T00:47:54.997+0500] {processor.py:157} INFO - Started process (PID=106725) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:47:55.005+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:47:55.007+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:47:55.006+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:47:55.009+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:47:55.019+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.027 seconds
+[2023-12-16T00:48:55.682+0500] {processor.py:157} INFO - Started process (PID=106778) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:48:55.724+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:48:55.725+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:48:55.725+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:48:55.728+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:48:55.738+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.060 seconds
+[2023-12-16T00:49:52.544+0500] {processor.py:157} INFO - Started process (PID=106829) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:49:52.569+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:49:52.570+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:49:52.570+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:49:52.572+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:49:52.582+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.041 seconds
+[2023-12-16T00:50:42.244+0500] {processor.py:157} INFO - Started process (PID=106874) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:50:42.277+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:50:42.279+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:50:42.278+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:50:42.281+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:50:42.292+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.052 seconds
+[2023-12-16T00:51:36.980+0500] {processor.py:157} INFO - Started process (PID=106923) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:51:37.021+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:51:37.022+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:51:37.021+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:51:37.024+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:51:37.038+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.062 seconds
+[2023-12-16T00:52:32.960+0500] {processor.py:157} INFO - Started process (PID=106976) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:52:32.987+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:52:32.988+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:52:32.988+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:52:32.991+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:52:33.001+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.046 seconds
+[2023-12-16T00:53:29.687+0500] {processor.py:157} INFO - Started process (PID=107031) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:53:29.720+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:53:29.721+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:53:29.721+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:53:29.723+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:53:29.735+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.051 seconds
+[2023-12-16T00:54:24.579+0500] {processor.py:157} INFO - Started process (PID=107079) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:54:24.620+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:54:24.621+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:54:24.620+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:54:24.623+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:54:24.633+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.058 seconds
+[2023-12-16T00:55:16.914+0500] {processor.py:157} INFO - Started process (PID=107126) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:55:16.986+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:55:16.987+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:55:16.987+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:55:16.989+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:55:16.999+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.090 seconds
+[2023-12-16T00:56:05.953+0500] {processor.py:157} INFO - Started process (PID=107173) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:56:06.009+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:56:06.011+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:56:06.010+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:56:06.013+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:56:06.026+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.077 seconds
+[2023-12-16T00:56:55.120+0500] {processor.py:157} INFO - Started process (PID=107219) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:56:55.143+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:56:55.144+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:56:55.143+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:56:55.146+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:56:55.161+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.044 seconds
+[2023-12-16T00:57:45.725+0500] {processor.py:157} INFO - Started process (PID=107269) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:57:45.745+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:57:45.746+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:57:45.746+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:57:45.749+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:57:45.761+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.040 seconds
+[2023-12-16T00:58:37.189+0500] {processor.py:157} INFO - Started process (PID=107317) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:58:37.243+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:58:37.245+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:58:37.244+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:58:37.248+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:58:37.261+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.076 seconds
+[2023-12-16T00:59:26.577+0500] {processor.py:157} INFO - Started process (PID=107363) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:59:26.621+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T00:59:26.622+0500] {logging_mixin.py:154} INFO - [2023-12-16T00:59:26.621+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:59:26.624+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T00:59:26.636+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.063 seconds
+[2023-12-16T01:00:14.273+0500] {processor.py:157} INFO - Started process (PID=107408) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:00:14.300+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:00:14.301+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:00:14.301+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:00:14.303+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:00:14.314+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.045 seconds
+[2023-12-16T01:01:03.543+0500] {processor.py:157} INFO - Started process (PID=107468) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:01:03.566+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:01:03.567+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:01:03.567+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:01:03.570+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:01:03.581+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.042 seconds
+[2023-12-16T01:01:55.594+0500] {processor.py:157} INFO - Started process (PID=107515) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:01:55.633+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:01:55.634+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:01:55.634+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:01:55.637+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:01:55.649+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.058 seconds
+[2023-12-16T01:02:50.210+0500] {processor.py:157} INFO - Started process (PID=107567) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:02:50.234+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:02:50.235+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:02:50.234+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:02:50.238+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:02:50.249+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.043 seconds
+[2023-12-16T01:03:47.698+0500] {processor.py:157} INFO - Started process (PID=107619) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:03:47.723+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:03:47.724+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:03:47.724+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:03:47.726+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:03:47.737+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.042 seconds
+[2023-12-16T01:04:39.446+0500] {processor.py:157} INFO - Started process (PID=107666) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:04:39.490+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:04:39.491+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:04:39.491+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:04:39.493+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:04:39.504+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.061 seconds
+[2023-12-16T01:05:31.545+0500] {processor.py:157} INFO - Started process (PID=107714) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:05:31.570+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:05:31.571+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:05:31.570+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:05:31.573+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:05:31.585+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.043 seconds
+[2023-12-16T01:06:19.887+0500] {processor.py:157} INFO - Started process (PID=107763) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:06:19.925+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:06:19.927+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:06:19.926+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:06:19.930+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:06:19.940+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.059 seconds
+[2023-12-16T01:07:11.229+0500] {processor.py:157} INFO - Started process (PID=107809) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:07:11.272+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:07:11.273+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:07:11.273+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:07:11.275+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:07:11.286+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.060 seconds
+[2023-12-16T01:08:03.939+0500] {processor.py:157} INFO - Started process (PID=107861) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:08:03.948+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:08:03.950+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:08:03.949+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:08:03.953+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:08:03.963+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.027 seconds
+[2023-12-16T01:08:57.356+0500] {processor.py:157} INFO - Started process (PID=107911) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:08:57.418+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:08:57.419+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:08:57.418+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:08:57.421+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:08:57.434+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.080 seconds
+[2023-12-16T01:09:50.653+0500] {processor.py:157} INFO - Started process (PID=107959) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:09:50.685+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:09:50.686+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:09:50.686+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:09:50.688+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:09:50.698+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.049 seconds
+[2023-12-16T01:10:40.674+0500] {processor.py:157} INFO - Started process (PID=108004) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:10:40.696+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:10:40.697+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:10:40.697+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:10:40.699+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:10:40.709+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.039 seconds
+[2023-12-16T01:11:34.897+0500] {processor.py:157} INFO - Started process (PID=108053) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:11:34.921+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:11:34.922+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:11:34.921+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:11:34.924+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:11:34.935+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.044 seconds
+[2023-12-16T01:12:26.254+0500] {processor.py:157} INFO - Started process (PID=108102) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:12:26.310+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:12:26.311+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:12:26.310+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:12:26.313+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:12:26.323+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.073 seconds
+[2023-12-16T01:13:19.297+0500] {processor.py:157} INFO - Started process (PID=108148) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:13:19.320+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:13:19.321+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:13:19.321+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:13:19.323+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:13:19.334+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.042 seconds
+[2023-12-16T01:14:14.474+0500] {processor.py:157} INFO - Started process (PID=108201) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:14:14.499+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:14:14.501+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:14:14.500+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:14:14.503+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:14:14.517+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.046 seconds
+[2023-12-16T01:15:05.606+0500] {processor.py:157} INFO - Started process (PID=108248) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:15:05.635+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:15:05.636+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:15:05.636+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:15:05.638+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:15:05.651+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.049 seconds
+[2023-12-16T01:15:58.951+0500] {processor.py:157} INFO - Started process (PID=108295) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:15:58.991+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:15:58.992+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:15:58.992+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:15:58.994+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:15:59.006+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.058 seconds
+[2023-12-16T01:16:47.506+0500] {processor.py:157} INFO - Started process (PID=108341) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:16:47.548+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:16:47.549+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:16:47.549+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:16:47.552+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:16:47.562+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.059 seconds
+[2023-12-16T01:17:42.364+0500] {processor.py:157} INFO - Started process (PID=108395) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:17:42.415+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:17:42.416+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:17:42.416+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:17:42.419+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:17:42.431+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.070 seconds
+[2023-12-16T01:18:32.499+0500] {processor.py:157} INFO - Started process (PID=108444) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:18:32.551+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:18:32.553+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:18:32.552+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:18:32.556+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:18:32.568+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.072 seconds
+[2023-12-16T01:19:25.437+0500] {processor.py:157} INFO - Started process (PID=108494) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:19:25.459+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:19:25.461+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:19:25.460+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:19:25.463+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:19:25.477+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.043 seconds
+[2023-12-16T01:20:17.516+0500] {processor.py:157} INFO - Started process (PID=108543) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:20:17.540+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:20:17.541+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:20:17.540+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:20:17.543+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:20:17.555+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.043 seconds
+[2023-12-16T01:21:19.520+0500] {processor.py:157} INFO - Started process (PID=108595) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:21:19.549+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:21:19.550+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:21:19.550+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:21:19.552+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:21:19.562+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.046 seconds
+[2023-12-16T01:22:16.741+0500] {processor.py:157} INFO - Started process (PID=108648) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:22:16.796+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:22:16.796+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:22:16.796+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:22:16.798+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:22:16.808+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.071 seconds
+[2023-12-16T01:23:09.269+0500] {processor.py:157} INFO - Started process (PID=108698) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:23:09.332+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:23:09.333+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:23:09.332+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:23:09.335+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:23:09.345+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.081 seconds
+[2023-12-16T01:24:06.705+0500] {processor.py:157} INFO - Started process (PID=108751) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:24:06.718+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:24:06.719+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:24:06.718+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:24:06.720+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:24:06.732+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2023-12-16T01:24:55.053+0500] {processor.py:157} INFO - Started process (PID=108798) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:24:55.100+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:24:55.101+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:24:55.100+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:24:55.103+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:24:55.115+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.066 seconds
+[2023-12-16T01:25:43.883+0500] {processor.py:157} INFO - Started process (PID=108844) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:25:43.912+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:25:43.913+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:25:43.913+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:25:43.915+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:25:43.926+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.047 seconds
+[2023-12-16T01:26:35.854+0500] {processor.py:157} INFO - Started process (PID=108890) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:26:35.886+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:26:35.887+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:26:35.887+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:26:35.889+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:26:35.902+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.051 seconds
+[2023-12-16T01:27:33.092+0500] {processor.py:157} INFO - Started process (PID=108940) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:27:33.167+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:27:33.168+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:27:33.168+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:27:33.171+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:27:33.182+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.095 seconds
+[2023-12-16T01:28:25.091+0500] {processor.py:157} INFO - Started process (PID=108988) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:28:25.108+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:28:25.109+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:28:25.109+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:28:25.111+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:28:25.121+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.035 seconds
+[2023-12-16T01:29:18.782+0500] {processor.py:157} INFO - Started process (PID=109041) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:29:18.836+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:29:18.837+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:29:18.836+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:29:18.839+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:29:18.854+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.075 seconds
+[2023-12-16T01:30:15.373+0500] {processor.py:157} INFO - Started process (PID=109089) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:30:15.416+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:30:15.417+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:30:15.417+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:30:15.419+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:30:15.429+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.059 seconds
+[2023-12-16T01:31:11.826+0500] {processor.py:157} INFO - Started process (PID=109140) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:31:11.845+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:31:11.846+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:31:11.846+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:31:11.848+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:31:11.859+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.037 seconds
+[2023-12-16T01:32:05.285+0500] {processor.py:157} INFO - Started process (PID=109189) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:32:05.340+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:32:05.341+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:32:05.340+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:32:05.343+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:32:05.353+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.071 seconds
+[2023-12-16T01:33:02.148+0500] {processor.py:157} INFO - Started process (PID=109251) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:33:02.163+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:33:02.164+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:33:02.164+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:33:02.168+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:33:02.181+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.037 seconds
+[2023-12-16T01:33:58.726+0500] {processor.py:157} INFO - Started process (PID=109306) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:33:58.728+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:33:58.730+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:33:58.729+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:33:58.733+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:33:58.747+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2023-12-16T01:34:55.909+0500] {processor.py:157} INFO - Started process (PID=109357) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:34:55.915+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:34:55.917+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:34:55.916+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:34:55.920+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:34:55.933+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.027 seconds
+[2023-12-16T01:35:56.692+0500] {processor.py:157} INFO - Started process (PID=109408) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:35:56.743+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:35:56.744+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:35:56.744+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:35:56.746+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:35:56.756+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.068 seconds
+[2023-12-16T01:36:55.662+0500] {processor.py:157} INFO - Started process (PID=109461) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:36:55.700+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:36:55.701+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:36:55.701+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:36:55.703+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:36:55.715+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.058 seconds
+[2023-12-16T01:37:52.024+0500] {processor.py:157} INFO - Started process (PID=109513) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:37:52.051+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:37:52.052+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:37:52.052+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:37:52.054+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:37:52.067+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.047 seconds
+[2023-12-16T01:38:49.016+0500] {processor.py:157} INFO - Started process (PID=109565) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:38:49.076+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:38:49.077+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:38:49.077+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:38:49.079+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:38:49.090+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.077 seconds
+[2023-12-16T01:39:44.366+0500] {processor.py:157} INFO - Started process (PID=109617) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:39:44.388+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:39:44.389+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:39:44.389+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:39:44.391+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:39:44.400+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.039 seconds
+[2023-12-16T01:40:34.444+0500] {processor.py:157} INFO - Started process (PID=109665) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:40:34.465+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:40:34.467+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:40:34.466+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:40:34.469+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:40:34.480+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.039 seconds
+[2023-12-16T01:41:23.032+0500] {processor.py:157} INFO - Started process (PID=109714) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:41:23.055+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:41:23.056+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:41:23.055+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:41:23.057+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:41:23.068+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.040 seconds
+[2023-12-16T01:42:13.574+0500] {processor.py:157} INFO - Started process (PID=109761) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:42:13.624+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:42:13.625+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:42:13.624+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:42:13.627+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:42:13.639+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.068 seconds
+[2023-12-16T01:43:10.622+0500] {processor.py:157} INFO - Started process (PID=109814) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:43:10.680+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:43:10.681+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:43:10.681+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:43:10.683+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:43:10.693+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.075 seconds
+[2023-12-16T01:44:04.797+0500] {processor.py:157} INFO - Started process (PID=109862) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:44:04.835+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:44:04.836+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:44:04.835+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:44:04.838+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:44:04.849+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.055 seconds
+[2023-12-16T01:44:54.443+0500] {processor.py:157} INFO - Started process (PID=109908) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:44:54.471+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:44:54.473+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:44:54.472+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:44:54.475+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:44:54.489+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.048 seconds
+[2023-12-16T01:45:42.709+0500] {processor.py:157} INFO - Started process (PID=109958) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:45:42.740+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:45:42.741+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:45:42.741+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:45:42.743+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:45:42.758+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.053 seconds
+[2023-12-16T01:46:32.158+0500] {processor.py:157} INFO - Started process (PID=110004) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:46:32.207+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:46:32.208+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:46:32.208+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:46:32.210+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:46:32.221+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.066 seconds
+[2023-12-16T01:47:27.189+0500] {processor.py:157} INFO - Started process (PID=110051) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:47:27.230+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:47:27.231+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:47:27.231+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:47:27.233+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:47:27.244+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.059 seconds
+[2023-12-16T01:48:24.726+0500] {processor.py:157} INFO - Started process (PID=110109) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:48:24.765+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:48:24.766+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:48:24.765+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:48:24.768+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:48:24.782+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.059 seconds
+[2023-12-16T01:49:18.396+0500] {processor.py:157} INFO - Started process (PID=110159) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:49:18.454+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:49:18.455+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:49:18.455+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:49:18.457+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:49:18.467+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.076 seconds
+[2023-12-16T01:50:16.606+0500] {processor.py:157} INFO - Started process (PID=110209) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:50:16.613+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:50:16.614+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:50:16.614+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:50:16.617+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:50:16.628+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.025 seconds
+[2023-12-16T01:51:12.823+0500] {processor.py:157} INFO - Started process (PID=110260) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:51:12.853+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:51:12.854+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:51:12.853+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:51:12.856+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:51:12.867+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.048 seconds
+[2023-12-16T01:52:02.238+0500] {processor.py:157} INFO - Started process (PID=110307) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:52:02.268+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:52:02.269+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:52:02.269+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:52:02.271+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:52:02.282+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.048 seconds
+[2023-12-16T01:52:53.643+0500] {processor.py:157} INFO - Started process (PID=110355) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:52:53.691+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:52:53.692+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:52:53.692+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:52:53.694+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:52:53.705+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.066 seconds
+[2023-12-16T01:53:40.823+0500] {processor.py:157} INFO - Started process (PID=110400) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:53:40.866+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:53:40.867+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:53:40.867+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:53:40.869+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:53:40.881+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.063 seconds
+[2023-12-16T01:54:30.359+0500] {processor.py:157} INFO - Started process (PID=110447) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:54:30.388+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:54:30.389+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:54:30.388+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:54:30.391+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:54:30.401+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.046 seconds
+[2023-12-16T01:55:27.368+0500] {processor.py:157} INFO - Started process (PID=110497) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:55:27.393+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:55:27.394+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:55:27.394+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:55:27.397+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:55:27.410+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.045 seconds
+[2023-12-16T01:56:22.632+0500] {processor.py:157} INFO - Started process (PID=110547) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:56:22.688+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-16T01:56:22.689+0500] {logging_mixin.py:154} INFO - [2023-12-16T01:56:22.688+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:56:22.691+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-16T01:56:22.701+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.072 seconds
