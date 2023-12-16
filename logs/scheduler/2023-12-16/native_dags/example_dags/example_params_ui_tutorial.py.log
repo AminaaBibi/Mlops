@@ -103,3 +103,66 @@
 [2023-12-16T12:41:35.941+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:41:35.941+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-12-16T12:41:35.950+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:41:35.949+0500] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
 [2023-12-16T12:41:36.051+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.256 seconds
+[2023-12-16T12:43:11.002+0500] {processor.py:157} INFO - Started process (PID=37200) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:43:11.039+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2023-12-16T12:43:11.040+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:43:11.039+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:43:11.069+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:43:11.113+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:43:11.113+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:43:11.122+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:43:11.122+0500] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2023-12-16T12:43:11.233+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.234 seconds
+[2023-12-16T12:44:12.627+0500] {processor.py:157} INFO - Started process (PID=37260) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:44:12.669+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2023-12-16T12:44:12.670+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:44:12.669+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:44:12.700+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:44:12.744+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:44:12.743+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:44:12.752+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:44:12.752+0500] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2023-12-16T12:44:12.851+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.228 seconds
+[2023-12-16T12:45:23.573+0500] {processor.py:157} INFO - Started process (PID=37378) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:45:23.574+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2023-12-16T12:45:23.575+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:45:23.575+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:45:23.605+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:45:23.648+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:45:23.648+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:45:23.657+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:45:23.657+0500] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2023-12-16T12:45:23.772+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.202 seconds
+[2023-12-16T12:46:35.984+0500] {processor.py:157} INFO - Started process (PID=37458) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:46:36.017+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2023-12-16T12:46:36.018+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:46:36.018+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:46:36.047+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:46:36.090+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:46:36.090+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:46:36.099+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:46:36.099+0500] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2023-12-16T12:46:36.215+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.235 seconds
+[2023-12-16T12:47:53.099+0500] {processor.py:157} INFO - Started process (PID=37540) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:47:53.124+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2023-12-16T12:47:53.125+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:47:53.125+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:47:53.169+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:47:53.258+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:47:53.258+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:47:53.272+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:47:53.272+0500] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2023-12-16T12:47:53.382+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.287 seconds
+[2023-12-16T12:49:17.344+0500] {processor.py:157} INFO - Started process (PID=38260) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:49:17.403+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2023-12-16T12:49:17.404+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:49:17.404+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:49:17.442+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:49:17.501+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:49:17.501+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:49:17.513+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:49:17.513+0500] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2023-12-16T12:49:17.616+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.277 seconds
+[2023-12-16T12:50:24.041+0500] {processor.py:157} INFO - Started process (PID=38446) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:50:24.097+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2023-12-16T12:50:24.097+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:50:24.097+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:50:24.128+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:50:24.190+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:50:24.190+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:50:24.199+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:50:24.199+0500] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2023-12-16T12:50:24.431+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.394 seconds
+[2023-12-16T12:51:27.412+0500] {processor.py:157} INFO - Started process (PID=38523) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:51:27.479+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2023-12-16T12:51:27.480+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:51:27.480+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:51:27.514+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:51:27.567+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:51:27.567+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:51:27.577+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:51:27.577+0500] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2023-12-16T12:51:27.784+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.374 seconds
+[2023-12-16T12:52:27.815+0500] {processor.py:157} INFO - Started process (PID=38574) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:52:27.865+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2023-12-16T12:52:27.866+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:52:27.865+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:52:27.905+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2023-12-16T12:52:27.980+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:52:27.980+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:52:27.994+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:52:27.994+0500] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2023-12-16T12:52:28.092+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.279 seconds

@@ -1,0 +1,9 @@
+[2023-12-16T12:53:22.096+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: etl_dag2.load_data_to_github manual__2023-12-16T07:52:59.893667+00:00 [queued]>
+[2023-12-16T12:53:22.103+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: etl_dag2.load_data_to_github manual__2023-12-16T07:52:59.893667+00:00 [queued]>
+[2023-12-16T12:53:22.103+0500] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2023-12-16T12:53:22.280+0500] {taskinstance.py:1382} INFO - Executing <Task(PythonOperator): load_data_to_github> on 2023-12-16 07:52:59.893667+00:00
+[2023-12-16T12:53:22.283+0500] {standard_task_runner.py:57} INFO - Started process 38635 to run task
+[2023-12-16T12:53:22.286+0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'etl_dag2', 'load_data_to_github', 'manual__2023-12-16T07:52:59.893667+00:00', '--job-id', '1402', '--raw', '--subdir', 'DAGS_FOLDER/airflow_dag.py', '--cfg-path', '/tmp/tmpw9yzi4d0']
+[2023-12-16T12:53:22.286+0500] {standard_task_runner.py:85} INFO - Job 1402: Subtask load_data_to_github
+[2023-12-16T12:53:22.449+0500] {task_command.py:416} INFO - Running <TaskInstance: etl_dag2.load_data_to_github manual__2023-12-16T07:52:59.893667+00:00 [running]> on host amina-HP-ProBook-450-G2
+[2023-12-16T12:53:22.733+0500] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='amina_bibi' AIRFLOW_CTX_DAG_ID='etl_dag2' AIRFLOW_CTX_TASK_ID='load_data_to_github' AIRFLOW_CTX_EXECUTION_DATE='2023-12-16T07:52:59.893667+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2023-12-16T07:52:59.893667+00:00'

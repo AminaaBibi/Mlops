@@ -96,3 +96,66 @@
 [2023-12-16T12:42:06.579+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:42:06.579+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-12-16T12:42:06.728+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:42:06.728+0500] {dag.py:3722} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04T00:00:00+00:00, run_after=2022-03-05T00:00:00+00:00
 [2023-12-16T12:42:06.844+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 1.422 seconds
+[2023-12-16T12:43:48.856+0500] {processor.py:157} INFO - Started process (PID=37234) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:43:48.905+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2023-12-16T12:43:48.906+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:43:48.906+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:43:48.911+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_dynamic_task_mapping']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:43:48.924+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:43:48.924+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:43:48.939+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:43:48.939+0500] {dag.py:3722} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04T00:00:00+00:00, run_after=2022-03-05T00:00:00+00:00
+[2023-12-16T12:43:49.047+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.194 seconds
+[2023-12-16T12:45:01.590+0500] {processor.py:157} INFO - Started process (PID=37345) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:45:01.626+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2023-12-16T12:45:01.627+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:45:01.627+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:45:01.632+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_dynamic_task_mapping']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:45:01.645+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:45:01.645+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:45:01.660+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:45:01.660+0500] {dag.py:3722} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04T00:00:00+00:00, run_after=2022-03-05T00:00:00+00:00
+[2023-12-16T12:45:01.768+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.181 seconds
+[2023-12-16T12:46:13.150+0500] {processor.py:157} INFO - Started process (PID=37429) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:46:13.169+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2023-12-16T12:46:13.170+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:46:13.170+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:46:13.175+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_dynamic_task_mapping']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:46:13.189+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:46:13.189+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:46:13.203+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:46:13.203+0500] {dag.py:3722} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04T00:00:00+00:00, run_after=2022-03-05T00:00:00+00:00
+[2023-12-16T12:46:13.312+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.164 seconds
+[2023-12-16T12:47:28.966+0500] {processor.py:157} INFO - Started process (PID=37515) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:47:28.991+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2023-12-16T12:47:28.992+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:47:28.992+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:47:28.998+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_dynamic_task_mapping']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:47:29.013+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:47:29.013+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:47:29.027+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:47:29.027+0500] {dag.py:3722} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04T00:00:00+00:00, run_after=2022-03-05T00:00:00+00:00
+[2023-12-16T12:47:29.145+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.182 seconds
+[2023-12-16T12:48:47.890+0500] {processor.py:157} INFO - Started process (PID=37623) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:48:47.950+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2023-12-16T12:48:47.950+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:48:47.950+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:48:47.956+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_dynamic_task_mapping']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:48:47.971+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:48:47.971+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:48:47.987+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:48:47.986+0500] {dag.py:3722} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04T00:00:00+00:00, run_after=2022-03-05T00:00:00+00:00
+[2023-12-16T12:48:48.133+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.246 seconds
+[2023-12-16T12:49:51.222+0500] {processor.py:157} INFO - Started process (PID=38344) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:49:51.245+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2023-12-16T12:49:51.246+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:49:51.246+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:49:51.252+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_dynamic_task_mapping']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:49:51.265+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:49:51.265+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:49:51.279+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:49:51.279+0500] {dag.py:3722} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04T00:00:00+00:00, run_after=2022-03-05T00:00:00+00:00
+[2023-12-16T12:49:51.373+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.153 seconds
+[2023-12-16T12:50:58.424+0500] {processor.py:157} INFO - Started process (PID=38499) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:50:58.454+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2023-12-16T12:50:58.456+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:50:58.455+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:50:58.462+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_dynamic_task_mapping']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:50:58.481+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:50:58.481+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:50:58.502+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:50:58.501+0500] {dag.py:3722} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04T00:00:00+00:00, run_after=2022-03-05T00:00:00+00:00
+[2023-12-16T12:50:58.751+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.333 seconds
+[2023-12-16T12:51:59.869+0500] {processor.py:157} INFO - Started process (PID=38549) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:51:59.897+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2023-12-16T12:51:59.898+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:51:59.897+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:51:59.905+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_dynamic_task_mapping']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:51:59.926+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:51:59.926+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:51:59.945+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:51:59.944+0500] {dag.py:3722} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04T00:00:00+00:00, run_after=2022-03-05T00:00:00+00:00
+[2023-12-16T12:52:00.031+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.166 seconds
+[2023-12-16T12:52:54.639+0500] {processor.py:157} INFO - Started process (PID=38600) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:52:54.653+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2023-12-16T12:52:54.654+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:52:54.654+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:52:54.659+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_dynamic_task_mapping']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-12-16T12:52:54.674+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:52:54.673+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:52:54.689+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:52:54.689+0500] {dag.py:3722} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04T00:00:00+00:00, run_after=2022-03-05T00:00:00+00:00
+[2023-12-16T12:52:54.797+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.161 seconds

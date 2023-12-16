@@ -173,3 +173,108 @@
 [2023-12-16T12:42:08.561+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:42:08.561+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-12-16T12:42:08.582+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:42:08.582+0500] {dag.py:3722} INFO - Setting next_dagrun for etl_dag2 to 2023-12-16T00:00:00+00:00, run_after=2023-12-17T00:00:00+00:00
 [2023-12-16T12:42:08.738+0500] {processor.py:179} INFO - Processing /home/amina/airflow/dags/airflow_dag.py took 0.535 seconds
+[2023-12-16T12:43:13.845+0500] {processor.py:157} INFO - Started process (PID=37202) to work on /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:43:13.893+0500] {processor.py:829} INFO - Processing file /home/amina/airflow/dags/airflow_dag.py for tasks to queue
+[2023-12-16T12:43:13.894+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:43:13.894+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:43:14.211+0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_dag2']) retrieved from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:43:14.228+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:43:14.228+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:43:14.247+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:43:14.247+0500] {dag.py:3722} INFO - Setting next_dagrun for etl_dag2 to 2023-12-16T00:00:00+00:00, run_after=2023-12-17T00:00:00+00:00
+[2023-12-16T12:43:14.398+0500] {processor.py:179} INFO - Processing /home/amina/airflow/dags/airflow_dag.py took 0.556 seconds
+[2023-12-16T12:43:50.104+0500] {processor.py:157} INFO - Started process (PID=37235) to work on /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:43:50.108+0500] {processor.py:829} INFO - Processing file /home/amina/airflow/dags/airflow_dag.py for tasks to queue
+[2023-12-16T12:43:50.108+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:43:50.108+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:43:50.377+0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_dag2']) retrieved from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:43:50.396+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:43:50.396+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:43:50.413+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:43:50.413+0500] {dag.py:3722} INFO - Setting next_dagrun for etl_dag2 to 2023-12-16T00:00:00+00:00, run_after=2023-12-17T00:00:00+00:00
+[2023-12-16T12:43:50.570+0500] {processor.py:179} INFO - Processing /home/amina/airflow/dags/airflow_dag.py took 0.468 seconds
+[2023-12-16T12:44:38.446+0500] {processor.py:157} INFO - Started process (PID=37300) to work on /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:44:38.463+0500] {processor.py:829} INFO - Processing file /home/amina/airflow/dags/airflow_dag.py for tasks to queue
+[2023-12-16T12:44:38.464+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:44:38.464+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:44:38.736+0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_dag2']) retrieved from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:44:38.748+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:44:38.748+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:44:38.763+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:44:38.762+0500] {dag.py:3722} INFO - Setting next_dagrun for etl_dag2 to 2023-12-16T00:00:00+00:00, run_after=2023-12-17T00:00:00+00:00
+[2023-12-16T12:44:38.882+0500] {processor.py:179} INFO - Processing /home/amina/airflow/dags/airflow_dag.py took 0.439 seconds
+[2023-12-16T12:45:25.510+0500] {processor.py:157} INFO - Started process (PID=37380) to work on /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:45:25.541+0500] {processor.py:829} INFO - Processing file /home/amina/airflow/dags/airflow_dag.py for tasks to queue
+[2023-12-16T12:45:25.541+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:45:25.541+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:45:25.794+0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_dag2']) retrieved from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:45:25.808+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:45:25.808+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:45:25.822+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:45:25.822+0500] {dag.py:3722} INFO - Setting next_dagrun for etl_dag2 to 2023-12-16T00:00:00+00:00, run_after=2023-12-17T00:00:00+00:00
+[2023-12-16T12:45:25.950+0500] {processor.py:179} INFO - Processing /home/amina/airflow/dags/airflow_dag.py took 0.444 seconds
+[2023-12-16T12:46:14.404+0500] {processor.py:157} INFO - Started process (PID=37430) to work on /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:46:14.412+0500] {processor.py:829} INFO - Processing file /home/amina/airflow/dags/airflow_dag.py for tasks to queue
+[2023-12-16T12:46:14.413+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:46:14.413+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:46:14.668+0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_dag2']) retrieved from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:46:14.681+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:46:14.680+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:46:14.695+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:46:14.695+0500] {dag.py:3722} INFO - Setting next_dagrun for etl_dag2 to 2023-12-16T00:00:00+00:00, run_after=2023-12-17T00:00:00+00:00
+[2023-12-16T12:46:14.813+0500] {processor.py:179} INFO - Processing /home/amina/airflow/dags/airflow_dag.py took 0.412 seconds
+[2023-12-16T12:47:04.921+0500] {processor.py:157} INFO - Started process (PID=37484) to work on /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:47:04.977+0500] {processor.py:829} INFO - Processing file /home/amina/airflow/dags/airflow_dag.py for tasks to queue
+[2023-12-16T12:47:04.978+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:47:04.978+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:47:05.271+0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_dag2']) retrieved from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:47:05.285+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:47:05.285+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:47:05.300+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:47:05.300+0500] {dag.py:3722} INFO - Setting next_dagrun for etl_dag2 to 2023-12-16T00:00:00+00:00, run_after=2023-12-17T00:00:00+00:00
+[2023-12-16T12:47:05.455+0500] {processor.py:179} INFO - Processing /home/amina/airflow/dags/airflow_dag.py took 0.536 seconds
+[2023-12-16T12:47:55.789+0500] {processor.py:157} INFO - Started process (PID=37542) to work on /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:47:55.846+0500] {processor.py:829} INFO - Processing file /home/amina/airflow/dags/airflow_dag.py for tasks to queue
+[2023-12-16T12:47:55.847+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:47:55.847+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:47:56.111+0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_dag2']) retrieved from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:47:56.124+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:47:56.124+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:47:56.139+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:47:56.139+0500] {dag.py:3722} INFO - Setting next_dagrun for etl_dag2 to 2023-12-16T00:00:00+00:00, run_after=2023-12-17T00:00:00+00:00
+[2023-12-16T12:47:56.274+0500] {processor.py:179} INFO - Processing /home/amina/airflow/dags/airflow_dag.py took 0.488 seconds
+[2023-12-16T12:48:49.202+0500] {processor.py:157} INFO - Started process (PID=37642) to work on /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:48:49.260+0500] {processor.py:829} INFO - Processing file /home/amina/airflow/dags/airflow_dag.py for tasks to queue
+[2023-12-16T12:48:49.261+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:48:49.261+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:48:49.553+0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_dag2']) retrieved from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:48:49.568+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:48:49.567+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:48:49.583+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:48:49.583+0500] {dag.py:3722} INFO - Setting next_dagrun for etl_dag2 to 2023-12-16T00:00:00+00:00, run_after=2023-12-17T00:00:00+00:00
+[2023-12-16T12:48:49.782+0500] {processor.py:179} INFO - Processing /home/amina/airflow/dags/airflow_dag.py took 0.582 seconds
+[2023-12-16T12:49:19.934+0500] {processor.py:157} INFO - Started process (PID=38263) to work on /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:49:19.935+0500] {processor.py:829} INFO - Processing file /home/amina/airflow/dags/airflow_dag.py for tasks to queue
+[2023-12-16T12:49:19.935+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:49:19.935+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:49:20.255+0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_dag2']) retrieved from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:49:20.276+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:49:20.276+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:49:20.291+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:49:20.290+0500] {dag.py:3722} INFO - Setting next_dagrun for etl_dag2 to 2023-12-16T00:00:00+00:00, run_after=2023-12-17T00:00:00+00:00
+[2023-12-16T12:49:20.417+0500] {processor.py:179} INFO - Processing /home/amina/airflow/dags/airflow_dag.py took 0.486 seconds
+[2023-12-16T12:49:52.240+0500] {processor.py:157} INFO - Started process (PID=38345) to work on /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:49:52.241+0500] {processor.py:829} INFO - Processing file /home/amina/airflow/dags/airflow_dag.py for tasks to queue
+[2023-12-16T12:49:52.242+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:49:52.241+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:49:52.504+0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_dag2']) retrieved from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:49:52.517+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:49:52.516+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:49:52.531+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:49:52.531+0500] {dag.py:3722} INFO - Setting next_dagrun for etl_dag2 to 2023-12-16T00:00:00+00:00, run_after=2023-12-17T00:00:00+00:00
+[2023-12-16T12:49:52.662+0500] {processor.py:179} INFO - Processing /home/amina/airflow/dags/airflow_dag.py took 0.425 seconds
+[2023-12-16T12:50:25.923+0500] {processor.py:157} INFO - Started process (PID=38448) to work on /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:50:25.938+0500] {processor.py:829} INFO - Processing file /home/amina/airflow/dags/airflow_dag.py for tasks to queue
+[2023-12-16T12:50:25.939+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:50:25.938+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:50:26.190+0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_dag2']) retrieved from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:50:26.204+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:50:26.203+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:50:26.218+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:50:26.217+0500] {dag.py:3722} INFO - Setting next_dagrun for etl_dag2 to 2023-12-16T00:00:00+00:00, run_after=2023-12-17T00:00:00+00:00
+[2023-12-16T12:50:26.489+0500] {processor.py:179} INFO - Processing /home/amina/airflow/dags/airflow_dag.py took 0.568 seconds
+[2023-12-16T12:50:59.481+0500] {processor.py:157} INFO - Started process (PID=38500) to work on /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:50:59.517+0500] {processor.py:829} INFO - Processing file /home/amina/airflow/dags/airflow_dag.py for tasks to queue
+[2023-12-16T12:50:59.518+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:50:59.518+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:50:59.832+0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_dag2']) retrieved from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:50:59.846+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:50:59.846+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:50:59.863+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:50:59.863+0500] {dag.py:3722} INFO - Setting next_dagrun for etl_dag2 to 2023-12-16T00:00:00+00:00, run_after=2023-12-17T00:00:00+00:00
+[2023-12-16T12:51:00.195+0500] {processor.py:179} INFO - Processing /home/amina/airflow/dags/airflow_dag.py took 0.717 seconds
+[2023-12-16T12:51:30.333+0500] {processor.py:157} INFO - Started process (PID=38526) to work on /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:51:30.334+0500] {processor.py:829} INFO - Processing file /home/amina/airflow/dags/airflow_dag.py for tasks to queue
+[2023-12-16T12:51:30.334+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:51:30.334+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:51:30.646+0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_dag2']) retrieved from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:51:30.659+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:51:30.659+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:51:30.676+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:51:30.675+0500] {dag.py:3722} INFO - Setting next_dagrun for etl_dag2 to 2023-12-16T00:00:00+00:00, run_after=2023-12-17T00:00:00+00:00
+[2023-12-16T12:51:30.809+0500] {processor.py:179} INFO - Processing /home/amina/airflow/dags/airflow_dag.py took 0.479 seconds
+[2023-12-16T12:52:01.146+0500] {processor.py:157} INFO - Started process (PID=38550) to work on /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:52:01.187+0500] {processor.py:829} INFO - Processing file /home/amina/airflow/dags/airflow_dag.py for tasks to queue
+[2023-12-16T12:52:01.188+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:52:01.188+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:52:01.526+0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_dag2']) retrieved from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:52:01.543+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:52:01.542+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:52:01.564+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:52:01.563+0500] {dag.py:3722} INFO - Setting next_dagrun for etl_dag2 to 2023-12-16T00:00:00+00:00, run_after=2023-12-17T00:00:00+00:00
+[2023-12-16T12:52:01.825+0500] {processor.py:179} INFO - Processing /home/amina/airflow/dags/airflow_dag.py took 0.682 seconds
+[2023-12-16T12:52:55.887+0500] {processor.py:157} INFO - Started process (PID=38601) to work on /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:52:55.932+0500] {processor.py:829} INFO - Processing file /home/amina/airflow/dags/airflow_dag.py for tasks to queue
+[2023-12-16T12:52:55.933+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:52:55.933+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:52:56.275+0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_dag2']) retrieved from /home/amina/airflow/dags/airflow_dag.py
+[2023-12-16T12:52:56.288+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:52:56.288+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:52:56.307+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:52:56.306+0500] {dag.py:3722} INFO - Setting next_dagrun for etl_dag2 to 2023-12-16T00:00:00+00:00, run_after=2023-12-17T00:00:00+00:00
+[2023-12-16T12:52:56.401+0500] {processor.py:179} INFO - Processing /home/amina/airflow/dags/airflow_dag.py took 0.517 seconds
