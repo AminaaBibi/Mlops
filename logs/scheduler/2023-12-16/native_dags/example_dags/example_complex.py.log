@@ -1,0 +1,119 @@
+[2023-12-16T12:23:09.463+0500] {processor.py:157} INFO - Started process (PID=20801) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:23:09.464+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-16T12:23:09.465+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:23:09.464+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:23:09.479+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:23:09.505+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:23:09.504+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:23:09.515+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:23:09.515+0500] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-16T12:23:09.669+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.209 seconds
+[2023-12-16T12:24:05.694+0500] {processor.py:157} INFO - Started process (PID=22035) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:24:05.710+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-16T12:24:05.711+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:24:05.711+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:24:05.730+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:24:05.756+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:24:05.755+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:24:05.767+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:24:05.767+0500] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-16T12:24:05.868+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.178 seconds
+[2023-12-16T12:25:39.430+0500] {processor.py:157} INFO - Started process (PID=23998) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:25:39.446+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-16T12:25:39.446+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:25:39.446+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:25:39.459+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:25:39.485+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:25:39.485+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:25:39.496+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:25:39.495+0500] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-16T12:25:39.686+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.259 seconds
+[2023-12-16T12:26:54.404+0500] {processor.py:157} INFO - Started process (PID=25323) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:26:54.445+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-16T12:26:54.445+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:26:54.445+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:26:54.455+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:26:54.478+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:26:54.478+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:26:54.491+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:26:54.490+0500] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-16T12:26:54.964+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.563 seconds
+[2023-12-16T12:30:18.778+0500] {processor.py:157} INFO - Started process (PID=29387) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:30:18.849+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-16T12:30:18.851+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:30:18.850+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:30:18.872+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:30:18.907+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:30:18.907+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:30:18.926+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:30:18.926+0500] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-16T12:30:19.045+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.270 seconds
+[2023-12-16T12:31:22.162+0500] {processor.py:157} INFO - Started process (PID=31008) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:31:22.213+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-16T12:31:22.214+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:31:22.214+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:31:22.224+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:31:22.246+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:31:22.246+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:31:22.256+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:31:22.256+0500] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-16T12:31:22.402+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.243 seconds
+[2023-12-16T12:32:22.985+0500] {processor.py:157} INFO - Started process (PID=32627) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:32:23.010+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-16T12:32:23.011+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:32:23.011+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:32:23.021+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:32:23.044+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:32:23.043+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:32:23.053+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:32:23.053+0500] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-16T12:32:23.198+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.216 seconds
+[2023-12-16T12:33:23.747+0500] {processor.py:157} INFO - Started process (PID=33725) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:33:23.828+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-16T12:33:23.829+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:33:23.828+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:33:23.839+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:33:23.860+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:33:23.860+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:33:23.870+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:33:23.869+0500] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-16T12:33:24.032+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.288 seconds
+[2023-12-16T12:34:21.437+0500] {processor.py:157} INFO - Started process (PID=35522) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:34:21.480+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-16T12:34:21.481+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:34:21.481+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:34:21.493+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:34:21.523+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:34:21.522+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:34:21.539+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:34:21.539+0500] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-16T12:34:21.711+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.276 seconds
+[2023-12-16T12:35:16.321+0500] {processor.py:157} INFO - Started process (PID=36338) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:35:16.376+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-16T12:35:16.377+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:35:16.377+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:35:16.387+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:35:16.408+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:35:16.408+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:35:16.418+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:35:16.418+0500] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-16T12:35:16.521+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.203 seconds
+[2023-12-16T12:36:11.357+0500] {processor.py:157} INFO - Started process (PID=36400) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:36:11.364+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-16T12:36:11.364+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:36:11.364+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:36:11.377+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:36:11.402+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:36:11.402+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:36:11.415+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:36:11.414+0500] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-16T12:36:11.546+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.193 seconds
+[2023-12-16T12:37:07.825+0500] {processor.py:157} INFO - Started process (PID=36697) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:37:07.894+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-16T12:37:07.895+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:37:07.895+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:37:07.906+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:37:07.930+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:37:07.929+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:37:07.942+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:37:07.942+0500] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-16T12:37:08.083+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.260 seconds
+[2023-12-16T12:37:59.373+0500] {processor.py:157} INFO - Started process (PID=36749) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:37:59.435+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-16T12:37:59.436+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:37:59.435+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:37:59.448+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:37:59.477+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:37:59.477+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:37:59.489+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:37:59.488+0500] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-16T12:37:59.602+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.232 seconds
+[2023-12-16T12:38:52.251+0500] {processor.py:157} INFO - Started process (PID=36797) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:38:52.251+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-16T12:38:52.252+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:38:52.252+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:38:52.262+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:38:52.284+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:38:52.284+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:38:52.293+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:38:52.293+0500] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-16T12:38:52.384+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.136 seconds
+[2023-12-16T12:39:41.585+0500] {processor.py:157} INFO - Started process (PID=36846) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:39:41.615+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-16T12:39:41.616+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:39:41.615+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:39:41.626+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:39:41.647+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:39:41.647+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:39:41.657+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:39:41.657+0500] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-16T12:39:41.769+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.186 seconds
+[2023-12-16T12:40:31.352+0500] {processor.py:157} INFO - Started process (PID=36955) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:40:31.373+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-16T12:40:31.374+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:40:31.374+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:40:31.384+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:40:31.414+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:40:31.414+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:40:31.426+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:40:31.426+0500] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-16T12:40:31.565+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.215 seconds
+[2023-12-16T12:41:22.942+0500] {processor.py:157} INFO - Started process (PID=37056) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:41:22.971+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-16T12:41:22.972+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:41:22.972+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:41:22.982+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2023-12-16T12:41:23.003+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:41:23.003+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:41:23.012+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:41:23.012+0500] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-16T12:41:23.130+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.190 seconds
