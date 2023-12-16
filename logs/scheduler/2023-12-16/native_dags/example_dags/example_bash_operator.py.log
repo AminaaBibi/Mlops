@@ -180,3 +180,101 @@
 [2023-12-16T12:52:25.269+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:52:25.269+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-12-16T12:52:25.287+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:52:25.286+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
 [2023-12-16T12:52:25.388+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.190 seconds
+[2023-12-16T12:53:52.526+0500] {processor.py:157} INFO - Started process (PID=38712) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T12:53:52.639+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-16T12:53:52.640+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:53:52.639+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T12:53:52.658+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T12:53:52.688+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:53:52.688+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:53:52.712+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:53:52.712+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-16T12:53:53.140+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.618 seconds
+[2023-12-16T12:55:00.841+0500] {processor.py:157} INFO - Started process (PID=39049) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T12:55:00.888+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-16T12:55:00.889+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:55:00.888+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T12:55:00.902+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T12:55:00.924+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:55:00.924+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:55:00.944+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:55:00.943+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-16T12:55:01.026+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.188 seconds
+[2023-12-16T12:56:14.793+0500] {processor.py:157} INFO - Started process (PID=39149) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T12:56:14.817+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-16T12:56:14.818+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:56:14.818+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T12:56:14.829+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T12:56:14.851+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:56:14.850+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:56:14.869+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:56:14.869+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-16T12:56:14.962+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.172 seconds
+[2023-12-16T12:57:24.797+0500] {processor.py:157} INFO - Started process (PID=39212) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T12:57:24.864+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-16T12:57:24.865+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:57:24.865+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T12:57:24.877+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T12:57:24.900+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:57:24.900+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:57:24.922+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:57:24.921+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-16T12:57:25.032+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.239 seconds
+[2023-12-16T12:58:17.903+0500] {processor.py:157} INFO - Started process (PID=39261) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T12:58:17.938+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-16T12:58:17.939+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:58:17.939+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T12:58:17.951+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T12:58:17.975+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:58:17.975+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:58:17.994+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:58:17.993+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-16T12:58:18.081+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.180 seconds
+[2023-12-16T12:59:10.465+0500] {processor.py:157} INFO - Started process (PID=39313) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T12:59:10.526+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-16T12:59:10.527+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:59:10.527+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T12:59:10.537+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T12:59:10.556+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:59:10.556+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:59:10.573+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:59:10.573+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-16T12:59:10.665+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.202 seconds
+[2023-12-16T13:00:01.895+0500] {processor.py:157} INFO - Started process (PID=39375) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T13:00:01.935+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-16T13:00:01.936+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:00:01.936+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T13:00:01.949+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T13:00:01.970+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:00:01.970+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T13:00:01.990+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:00:01.990+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-16T13:00:02.077+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.185 seconds
+[2023-12-16T13:01:16.474+0500] {processor.py:157} INFO - Started process (PID=39459) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T13:01:16.514+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-16T13:01:16.515+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:01:16.515+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T13:01:16.533+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T13:01:16.556+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:01:16.556+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T13:01:16.575+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:01:16.575+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-16T13:01:16.668+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.197 seconds
+[2023-12-16T13:02:31.381+0500] {processor.py:157} INFO - Started process (PID=39553) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T13:02:31.415+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-16T13:02:31.416+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:02:31.415+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T13:02:31.430+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T13:02:31.454+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:02:31.453+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T13:02:31.475+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:02:31.475+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-16T13:02:31.571+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.192 seconds
+[2023-12-16T13:03:49.707+0500] {processor.py:157} INFO - Started process (PID=39797) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T13:03:49.740+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-16T13:03:49.741+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:03:49.741+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T13:03:49.753+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T13:03:49.778+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:03:49.778+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T13:03:49.798+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:03:49.798+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-16T13:03:49.880+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.177 seconds
+[2023-12-16T13:04:46.061+0500] {processor.py:157} INFO - Started process (PID=39945) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T13:04:46.075+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-16T13:04:46.076+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:04:46.076+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T13:04:46.089+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T13:04:46.116+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:04:46.116+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T13:04:46.138+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:04:46.138+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-16T13:04:46.240+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.183 seconds
+[2023-12-16T13:05:38.638+0500] {processor.py:157} INFO - Started process (PID=40015) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T13:05:38.676+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-16T13:05:38.677+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:05:38.677+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T13:05:38.687+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T13:05:38.707+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:05:38.707+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T13:05:38.723+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:05:38.722+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-16T13:05:38.816+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.182 seconds
+[2023-12-16T13:06:49.970+0500] {processor.py:157} INFO - Started process (PID=40089) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T13:06:50.005+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-16T13:06:50.006+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:06:50.005+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T13:06:50.016+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T13:06:50.036+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:06:50.035+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T13:06:50.052+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:06:50.052+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-16T13:06:50.146+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.178 seconds
+[2023-12-16T13:07:41.527+0500] {processor.py:157} INFO - Started process (PID=40164) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T13:07:41.533+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-16T13:07:41.534+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:07:41.534+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T13:07:41.547+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-16T13:07:41.566+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:07:41.566+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T13:07:41.582+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:07:41.581+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-12-15T00:00:00+00:00, run_after=2023-12-16T00:00:00+00:00
+[2023-12-16T13:07:41.734+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.210 seconds

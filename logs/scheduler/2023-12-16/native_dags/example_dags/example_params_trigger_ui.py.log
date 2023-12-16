@@ -180,3 +180,101 @@
 [2023-12-16T12:52:23.946+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:52:23.946+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-12-16T12:52:23.955+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:52:23.955+0500] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
 [2023-12-16T12:52:24.054+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.208 seconds
+[2023-12-16T12:53:51.165+0500] {processor.py:157} INFO - Started process (PID=38699) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T12:53:51.216+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-12-16T12:53:51.217+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:53:51.217+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T12:53:51.236+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T12:53:51.287+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:53:51.286+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:53:51.299+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:53:51.298+0500] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-12-16T12:53:51.380+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.217 seconds
+[2023-12-16T12:54:59.492+0500] {processor.py:157} INFO - Started process (PID=39048) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T12:54:59.559+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-12-16T12:54:59.560+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:54:59.560+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T12:54:59.576+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T12:54:59.615+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:54:59.615+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:54:59.627+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:54:59.626+0500] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-12-16T12:54:59.723+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.234 seconds
+[2023-12-16T12:56:13.446+0500] {processor.py:157} INFO - Started process (PID=39148) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T12:56:13.491+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-12-16T12:56:13.492+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:56:13.492+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T12:56:13.511+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T12:56:13.559+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:56:13.559+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:56:13.573+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:56:13.573+0500] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-12-16T12:56:13.653+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.210 seconds
+[2023-12-16T12:57:03.273+0500] {processor.py:157} INFO - Started process (PID=39193) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T12:57:03.288+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-12-16T12:57:03.289+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:57:03.288+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T12:57:03.305+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T12:57:03.343+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:57:03.343+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:57:03.354+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:57:03.353+0500] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-12-16T12:57:03.458+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.189 seconds
+[2023-12-16T12:58:16.558+0500] {processor.py:157} INFO - Started process (PID=39260) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T12:58:16.629+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-12-16T12:58:16.630+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:58:16.629+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T12:58:16.653+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T12:58:16.697+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:58:16.697+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:58:16.710+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:58:16.709+0500] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-12-16T12:58:16.805+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.251 seconds
+[2023-12-16T12:59:09.215+0500] {processor.py:157} INFO - Started process (PID=39312) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T12:59:09.234+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-12-16T12:59:09.235+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:59:09.235+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T12:59:09.250+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T12:59:09.283+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:59:09.283+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T12:59:09.292+0500] {logging_mixin.py:154} INFO - [2023-12-16T12:59:09.292+0500] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-12-16T12:59:09.387+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.174 seconds
+[2023-12-16T13:00:00.644+0500] {processor.py:157} INFO - Started process (PID=39374) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T13:00:00.666+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-12-16T13:00:00.667+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:00:00.667+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T13:00:00.684+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T13:00:00.725+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:00:00.724+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T13:00:00.736+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:00:00.736+0500] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-12-16T13:00:00.836+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.195 seconds
+[2023-12-16T13:00:51.932+0500] {processor.py:157} INFO - Started process (PID=39421) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T13:00:51.953+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-12-16T13:00:51.954+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:00:51.954+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T13:00:51.980+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T13:00:52.022+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:00:52.021+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T13:00:52.035+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:00:52.034+0500] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-12-16T13:00:52.141+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.212 seconds
+[2023-12-16T13:02:06.327+0500] {processor.py:157} INFO - Started process (PID=39516) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T13:02:06.351+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-12-16T13:02:06.353+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:02:06.352+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T13:02:06.373+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T13:02:06.416+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:02:06.416+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T13:02:06.427+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:02:06.426+0500] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-12-16T13:02:06.514+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.190 seconds
+[2023-12-16T13:03:22.500+0500] {processor.py:157} INFO - Started process (PID=39726) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T13:03:22.507+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-12-16T13:03:22.508+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:03:22.508+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T13:03:22.533+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T13:03:22.587+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:03:22.587+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T13:03:22.600+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:03:22.600+0500] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-12-16T13:03:22.737+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.242 seconds
+[2023-12-16T13:04:17.529+0500] {processor.py:157} INFO - Started process (PID=39862) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T13:04:17.550+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-12-16T13:04:17.550+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:04:17.550+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T13:04:17.565+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T13:04:17.598+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:04:17.598+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T13:04:17.607+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:04:17.607+0500] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-12-16T13:04:17.685+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.158 seconds
+[2023-12-16T13:05:12.600+0500] {processor.py:157} INFO - Started process (PID=39986) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T13:05:12.663+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-12-16T13:05:12.664+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:05:12.663+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T13:05:12.679+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T13:05:12.713+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:05:12.713+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T13:05:12.722+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:05:12.722+0500] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-12-16T13:05:12.816+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.219 seconds
+[2023-12-16T13:06:03.218+0500] {processor.py:157} INFO - Started process (PID=40039) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T13:06:03.280+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-12-16T13:06:03.281+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:06:03.281+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T13:06:03.296+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T13:06:03.332+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:06:03.332+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T13:06:03.341+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:06:03.341+0500] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-12-16T13:06:03.440+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.225 seconds
+[2023-12-16T13:07:16.552+0500] {processor.py:157} INFO - Started process (PID=40115) to work on /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T13:07:16.586+0500] {processor.py:829} INFO - Processing file /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-12-16T13:07:16.587+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:07:16.587+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T13:07:16.602+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-12-16T13:07:16.636+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:07:16.635+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-16T13:07:16.645+0500] {logging_mixin.py:154} INFO - [2023-12-16T13:07:16.644+0500] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-12-16T13:07:16.746+0500] {processor.py:179} INFO - Processing /home/amina/miniconda/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.197 seconds
